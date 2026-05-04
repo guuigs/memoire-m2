@@ -12,34 +12,8 @@ l'art) rendu en 2024-2025, disponible dans `01-veille-source/memoire-m1.pdf`.
 **Domaine** : médiation muséale numérique, avec un focus sur les applications 
 mobiles de type audioguide.
 
-**Problématique provisoire (à retravailler)** :
-La problématique posée en conclusion du M1 était : *« Entre promesse d'accessibilité 
-culturelle et réalité d'un usage limité, comment expliquer la moindre utilisation 
-des applications mobiles audioguide, et quelles améliorations concrètes 
-permettraient d'améliorer ce type d'interface ? »*
-
-Cette formulation a trois problèmes identifiés qu'Ekko veut corriger :
-1. Elle est double (explicative + prescriptive).
-2. Elle présuppose la réponse (« améliorations permettraient d'améliorer »).
-3. Elle enferme la réflexion dans un cadre de solution par le design d'interface, 
-   alors que les causes du problème pourraient être ailleurs (organisationnelles, 
-   économiques, contextuelles, ou relevant d'une inadéquation fondamentale du 
-   support mobile au contexte muséal).
-
-**Pistes de reformulation à discuter avec Ekko et son directeur de mémoire** :
-- Version explicative pure : « Comment expliquer l'écart entre la promesse 
-  d'accessibilité portée par les applications mobiles audioguide et leur 
-  adoption limitée par les publics muséaux ? »
-- Version plus ouverte : « À quelles conditions une application mobile peut-elle 
-  constituer un dispositif de médiation muséale pertinent, ou faut-il au 
-  contraire questionner la légitimité même de ce support dans l'expérience de 
-  visite ? »
-- Version centrée sur la tension : « L'application mobile audioguide : dispositif 
-  de médiation ou symptôme d'une dépossession de la fonction de médiation par 
-  les institutions muséales ? »
-
-Ces pistes sont à affiner. La problématique finale sera posée dans 
-`03-plan/problematique.md` avec historique des versions.
+**Problématique ** :
+La problématique est disponible dans le fichier adéquat.
 
 ## Hypothèse ouverte et non-négociable
 
@@ -78,11 +52,7 @@ besoins de rédaction immédiats. Les recherches bibliographiques se font en
 appui de sections en cours d'écriture, pas en amont ouvert.
 
 Le rétroplanning M1 (prototypes + tests utilisateurs) n'est probablement plus 
-tenable. Ekko doit trancher avec son directeur de mémoire avant de lancer la 
-rédaction :
-- Option A : mémoire analytique sans prototype, appuyé sur corpus + entretiens + 
-  questionnaire.
-- Option B : un seul prototype minimal, testé sur 3-5 personnes.
+tenable. L'option est de faire un seul prototype minimal, testé sur 3-5 personnes.
 
 ## Conventions d'écriture
 
