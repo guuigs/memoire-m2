@@ -6,7 +6,7 @@ Ce fichier centralise les questions non résolues qui nécessitent une décision
 
 ## Bibliographie
 
-- [ ] **Référence Erhel & Jamet incomplète** : le PDF du chapitre 9 est présent mais le titre et l'éditeur de l'ouvrage parent sont inconnus. À retrouver avant tout usage dans le mémoire. Ekko a-t-il le livre complet quelque part ?
+*(section vide — nouvelle approche : détection des besoins en cours de rédaction + recherche autonome)*
 
 ---
 
@@ -20,7 +20,7 @@ Ce fichier centralise les questions non résolues qui nécessitent une décision
 
 ## Rédaction
 
-- [ ] **Section sur l'usage de l'IA dans la recherche** : à rédiger en section distincte (hors section méthodo principale). Doit couvrir : rôle de Claude dans l'analyse des entretiens, la structuration du mémoire, la rédaction assistée — avec positionnement critique d'Ekko sur ce choix. Voir `07-meta/contributions-ia.md` pour le contenu. À placer en annexe méthodologique ou dans la conclusion.
+- [x] **Modification M1 (retours soutenance)** : ✅ Fait session 7 (2026-05-05). Vulgarisation intégrée, diorama corrigé, cycles numériques ajoutés, conclusion réécrite.
 
 ---
 
@@ -28,4 +28,4 @@ Ce fichier centralise les questions non résolues qui nécessitent une décision
 
 - [x] **Soumettre la problématique v1d + plan v3 à Benoît Berthou** : ✅ Berthou OK — 2026-05-02.
 
-- [ ] **Musée de la Marine : quel dispositif précis ?** Les interlocutrices du Musée de la Faïence ont cité le Musée national de la Marine à Paris comme référence inspirante. Avant tout usage dans le mémoire, identifier ce qu'elles y ont vu (réalité augmentée ? scénographie immersive ? app ?). Ekko peut rappeler ou recontacter si nécessaire.
+- [ ] **Musée de la Marine : à creuser** — Référence citée par les interlocutrices du Musée de la Faïence. Identifié comme : audioguide + expérience sonore + programmes courts. Ekko doit creuser ce sujet avant usage dans le mémoire.

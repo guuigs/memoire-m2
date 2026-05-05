@@ -45,6 +45,21 @@ Doutes initiaux :
 
 ---
 
+## 2026-05-04 — Session 6 : changement d'approche bibliographique
+
+**Où j'en suis** : Rien de spécial intellectuellement, mise à part un changement important dans la manière d'aborder la recherche bibliographique.
+
+**Ce qui a bougé (côté méthode)** :
+- Les références du M1 doivent être limitées dans leur utilisation pour le M2
+- Nouvelle approche : détecter les besoins de recherche académique en cours de rédaction, lancer les recherches de façon autonome (via chercheur-sources), puis récupérer les PDFs si nécessaire
+- On ne part plus des sources existantes, on détecte les besoins et on cherche
+
+**Décisions prises** :
+- Abandon du fichier Erhel & Jamet (référence incomplète)
+- Musée de la Marine : référence identifiée comme liée à l'audioguide + expérience sonore + programmes courts — à creuser
+
+---
+
 ## 2026-05-01 — Session 3 : première analyse terrain, bibliographie consolidée
 
 **Où j'en suis** : Motivé à commencer à réfléchir vraiment sur la rédaction. Hâte d'échanger sur le fond du sujet. Envie que ça avance concrètement.
@@ -86,3 +101,56 @@ Doutes initiaux :
 - (aucune nouvelle signalée)
 
 ---
+## 2026-05-05 — Session 7 : relecture M1 avec retours de soutenance
+
+**Où j'en suis** : Rien de nouveau intellectuellement depuis hier. Continuité directe de la session 6.
+
+**Ce qui s'est passé** :
+- Relecture complète de la transcription de soutenance M1
+- Extraction des recommandations du jury (7 sources prioritaires identifiées)
+- Document de synthèse produit : `07-meta/corrections-soutenance-m1.md`
+- Mise à jour de `06-bibliographie/a-recuperer.md` avec les sources recommandées
+
+**Décisions** : Garder la longueur de la Partie II (pas de réduction). Musée de la Marine toujours en attente. Sources paywall en cours de récupération côté Ekko.
+
+**Retours majeurs du jury à intégrer** :
+1. **Vulgarisation = « totalement cardinal »** — pas annexe, doit structurer l'état de l'art et la Partie III
+2. **Schmitt & Meyer-Shemenska** — cycles du numérique muséal (monstration → effacement → retour audioguides)
+3. **Davalon** — médiations symboliques, l'audioguide comme objet intermédiaire
+4. **Diorama** — correction factuelle : n'a pas totalement disparu (salles de reconstitution)
+5. **Antoine Hennion** — sociologie des publics, distinction public/visiteur/usager
+
+**Question en suspens** : Ampleur de la reprise du M1 (Option A minimale recommandée par l'agent).
+
+---
+
+## 2026-05-05 — Session 8 : fiches sources jury + intégration
+
+**Où j'en suis** : Rien de nouveau intellectuellement. Continuité directe.
+
+**Décisions prises** :
+- Musée de la Marine : en attente (pas prioritaire)
+- Sources paywall (Jung, Siebers, Cairn 2018) : en cours de récupération via BU
+- Hennion, Le Marec, Jourdan, Wolton : abandon — trop complexe à récupérer pour le temps restant
+
+**Tâche de la session** : Produire les 3 fiches de lecture manquantes (Bensaude-Vincent, Schmitt & Meyer-Chemenska, Davallon & Le Marec) et intégrer ces sources dans les parties déjà rédigées.
+
+---
+
+## 2026-05-04 (fin de session) — Rédaction Parties I et II, réflexion sur la vulgarisation
+
+**Où j'en suis** : J'ai rédigé les Parties I et II du mémoire (~43 pages). Partie I documente ce que vivent les visiteurs et ce que révèle le corpus. Partie II documente les contraintes institutionnelles (économiques, organisationnelles, dépossession).
+
+**Ce qui a bougé intellectuellement** :
+
+La **vulgarisation** est le cœur de la solution, pas juste un "détail de conception". Adapter les formats et les tons à notre époque (YouTube, podcasts, récits incarnés) n'est pas une option secondaire — c'est LA réponse au problème du contenu ennuyeux. Je l'ai documenté dans les Parties I-II (critique du ton neutre, valorisation du Pop Guide de Langeais), mais pas assez explicitement comme **axe de solution prioritaire**. 
+
+→ Action : dans la Partie III, mettre la vulgarisation au centre. Montrer que vulgariser ≠ simplifier bêtement, mais **raconter avec une voix, un rythme, une incarnation**.
+
+**Retours sur mon travail (réflexion critique)** :
+
+Points forts : voix préservée, sources vérifiées, limites signalées.
+Points faibles : longueur excessive (Partie II +40 %), répétitions entre sections, faible mobilisation du M1.
+
+Suggestions retenues pour la suite : séparer données/analyses en sous-sections distinctes + déplacer certains détails en annexe.
+

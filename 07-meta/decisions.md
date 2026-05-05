@@ -44,3 +44,29 @@ Ce fichier consigne les décisions importantes prises au fil des sessions. Il se
 | Corpus audioguides | Arrêté à 5 apps (la 6e ne sera pas ajoutée) | ✅ Définitive |
 | Bibliographie gamification | 4 PDFs intégrés, fiches rédigées. Pertinence jugée secondaire : Erhel & Jamet et Allain réservés pour la Partie V uniquement. Brassier & Ralet et Besse-Patin archivés (fiches présentes, non mobilisables). | ✅ Actée |
 | Référence Erhel & Jamet | Référence incomplète (titre et éditeur de l'ouvrage parent manquants) — à compléter avant usage dans le mémoire | ⏳ En suspens |
+
+---
+
+## Session 6 — 2026-05-04
+
+| Décision | Contenu | Statut |
+|---|---|---|
+| Approche bibliographique | Changement de méthode : limiter l'usage des références du M1, détecter les besoins de recherche pendant la rédaction, lancer les recherches de façon autonome via chercheur-sources, puis récupérer PDFs si nécessaire. Pas d'accumulation de 1000 sources — réutiliser les sources existantes à travers différents argumentaires avant d'en chercher de nouvelles. | ✅ Actée |
+| Longueur Partie II | Partie II fait ~25 pages au lieu de 18 prévues (+40 %). Ekko valide : "C'est ok tkt" — pas de condensation requise. | ✅ Acceptée |
+| Visualisations (tableaux/schémas) | Pas de création immédiate, mais ajout de marqueurs `[SCHÉMA PROPOSÉ : description]` dans le texte pour indiquer où une visualisation aiderait la lecture. À produire ultérieurement. | ✅ Actée |
+| Mobilisation du M1 | Bonne idée de faire une passe de relecture du M1 pour identifier les passages à mobiliser dans Parties I-II. Ajouté à la todo, pas exécuté dans cette session (fin de session). | ✅ À faire |
+| Suggestions structurelles retenues | Parmi les 5 suggestions de la réflexion critique : retenir **suggestion 2** (séparer données brutes / analyses en sous-sections distinctes) et **suggestion 3** (déplacer certaines analyses détaillées en annexe). | ✅ Actées |
+| Vulgarisation comme axe central | Ekko confirme que la vulgarisation est "un des cœurs si ce n'est le cœur de la solution" — adapter formats et tons à notre époque (YouTube, podcasts, récits incarnés). L'agent a documenté le problème (ton neutre) mais pas assez explicitement la solution. **Action Partie III** : mettre la vulgarisation au centre comme axe de solution prioritaire. | ✅ Actée |
+
+---
+
+## Session 7 — 2026-05-05
+
+| Décision | Contenu | Statut |
+|---|---|---|
+| Relecture M1 avec retours soutenance | Analyse des retours de soutenance effectuée. Document de synthèse produit : `07-meta/corrections-soutenance-m1.md`. | ✅ Actée |
+| Ampleur de la reprise du M1 | **Approche retenue** : modification du M1 existant (pas d'ajout, suppression des parties caduques, enrichissement des passages pertinents). Objectif : taille similaire ±2 pages. Validé par Ekko. | ✅ Validée |
+| Modification M1 effectuée | Suppression section "Préparation" (obsolète), correction diorama, intégration vulgarisation comme concept cardinal, ajout cycles numériques (Schmitt), clarification public/visiteur/usager, réécriture conclusion M2. | ✅ Fait |
+| Sources jury à ajouter | 7 sources prioritaires identifiées : Davalon, Schmitt & Meyer-Shemenska, Le Marec, Wolton, Bensaude-Vincent, Jourdan (1973), Hennion. Ajoutées à `06-bibliographie/a-recuperer.md`. | ⏳ À récupérer |
+| Impacts Parties I-II | Impacts mineurs identifiés : ajouts de références théoriques ciblés, pas de réécriture massive. Détails dans `corrections-soutenance-m1.md`. | ✅ Documenté |
+

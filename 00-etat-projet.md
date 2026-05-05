@@ -1,6 +1,6 @@
 # État du projet — Mémoire M2
 
-*Mis à jour : 2026-05-02 (session 5)*
+*Mis à jour : 2026-05-05 (session 7 — fin)*
 
 ---
 
@@ -11,13 +11,13 @@
 | Problématique | ✅ Arrêtée (v1d) — validée |
 | Plan cible | ✅ Mis à jour (v3) — plan thématique par tensions |
 | Introduction | 🔜 À réécrire après rédaction |
-| État de l'art (A+B = M1) | ⏳ À reprendre / corrections mineures |
+| État de l'art (A+B = M1) | ✅ Modifié (session 7) — corrections soutenance intégrées |
 | Problématique, hypothèses, méthode | ✅ Rédigée — `04-chapitres/02-prob-hyp-methode.md` |
-| Partie I — L'outil contre lui-même | 🟢 Prêt à rédiger |
-| Partie II — Corpus | ⏳ Corpus arrêté à 5 apps — grille posée |
-| Partie III — Prototype | 🔜 À lancer après Parties I + II |
+| Partie I — L'outil contre lui-même | ✅ **RÉDIGÉE** (~18 pages) — `04-chapitres/03-partie-I-outil-contre-lui-meme.md` |
+| Partie II — L'institution contre l'outil | ✅ **RÉDIGÉE** (~25 pages) — `04-chapitres/04-partie-II-institution-contre-outil.md` |
+| Partie III — Y a-t-il une sortie par le design ? | 🟢 Prêt à rédiger |
 | Conclusion | 🔜 À rédiger en dernier |
-| Bibliographie | ✅ 23 fiches produites — 8 nouveaux PDFs intégrés (fiches 16-23) |
+| Bibliographie | ✅ 28 fiches produites — 7 nouvelles sources à récupérer (recommandations jury soutenance M1) |
 
 ---
 
@@ -50,10 +50,17 @@
 2. ✅ Analyse entretien musée 2 (Faïence de Nevers) — produite
 3. ✅ Plan v2 mis à jour (conforme consignes DIMI)
 4. ✅ Fiches de lecture 8 nouveaux PDFs — fiches 16-23 produites (session 4, 2026-05-01)
-5. **Démarrer la rédaction de la Partie I (terrain)** — déblocage levé
-6. Démarrer la rédaction de la Partie II (corpus)
-7. Identifier la référence complète d'Erhel & Jamet
-8. Définir le périmètre du prototype
+5. ✅ **Rédaction Partie I (terrain)** — TERMINÉE (~18 pages, session 6, 2026-05-04)
+6. ✅ Recherche bibliographique + fiches pour I.1 — fiches 24-28 produites (session 6)
+7. ✅ **Rédaction Partie II (institution)** — TERMINÉE (~25 pages, session 6, 2026-05-04)
+8. ✅ Relecture M1 avec retours soutenance — synthèse produite (`07-meta/corrections-soutenance-m1.md`)
+9. ✅ **Modification M1** — vulgarisation intégrée, diorama corrigé, cycles numériques ajoutés, conclusion réécrite (session 7)
+10. Récupérer 7 sources recommandées par le jury (Davalon, Schmitt, Hennion, etc.)
+11. Produire fiches de lecture pour les nouvelles sources
+12. Ajouter marqueurs [SCHÉMA PROPOSÉ] où visualisations aideraient
+13. Appliquer suggestions 2 et 3 de la réflexion critique
+14. Rédiger Partie III avec vulgarisation comme axe central
+15. Définir le périmètre du prototype
 
 ---
 

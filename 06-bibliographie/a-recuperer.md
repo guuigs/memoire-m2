@@ -149,3 +149,224 @@ Ces sources ne sont pas dans le M1 mais seront utiles pour les parties nouvelles
 	- Accès libre : https://journals.openedition.org/rgi/1526
 - [RÉF À TROUVER : études sur la non-linéarité comme critère de qualité UX dans les apps mobiles]
 	- PDF : Smartphones, Nicolas Nova
+
+---
+
+## Nouvelles sources identifiées — Session 2026-05-04 — Section I.1
+
+### PRIORITÉ 1 : Taux d'adoption et d'abandon
+
+#### Nubart (2023) — Statistiques d'adoption des apps audioguide
+`[ACCÈS LIBRE]` — **À télécharger**
+- **URL** : https://www.nubart.eu/audio-guides/museum-audio-guide-app-adoption-rates.html
+- **Type** : Article d'analyse industrielle basé sur données empiriques (175 apps analysées)
+- **Données clés** :
+  - Seulement 2,47% des visiteurs téléchargent les apps audioguide
+  - Analyse portant sur 175 apps officielles de musées (Europe + USA)
+  - Coûts de développement élevés pour un taux d'adoption très faible
+- **Pertinence** : Données quantitatives récentes sur l'abandon/adoption (section I.1)
+- **Action** : Vérifier la méthodologie et la fiabilité avant citation
+
+#### Museums and the Web 2017 — Location-based understanding of app behavior
+`[ACCÈS LIBRE]` — **À télécharger**
+- **URL** : https://mw17.mwconf.org/paper/a-location-based-understanding-of-mobile-app-user-behavior/
+- **Type** : Communication de conférence académique
+- **Données clés** :
+  - Moyenne d'apps culturelles : <1000 téléchargements, ouvertes <1 fois
+  - Étude sur 20+ organisations culturelles
+  - Analyse comportementale géolocalisée
+- **Pertinence** : Données empiriques sur l'usage réel vs intentions (section I.1)
+- **Action** : Télécharger le PDF complet de la communication
+
+### PRIORITÉ 2 : Compétition attentionnelle
+
+#### Siebers, Beyens, Valkenburg (2024) — Fragmentation attentionnelle smartphone
+`[À RÉCUPÉRER]` — **Paywall**
+- **Référence complète** : Siebers, T., Beyens, I., & Valkenburg, P. M. (2024). The effects of fragmented and sticky smartphone use on distraction and task delay. *Communication Research*, 51(5).
+- **DOI** : À vérifier
+- **URL** : https://journals.sagepub.com/doi/10.1177/20501579231193941
+- **Lien proxy SPN** : https://doi-org.ezproxy.univ-paris13.fr/10.1177/20501579231193941
+- **Pertinence** : Mécanisme cognitif de la fragmentation attentionnelle (usage fragmenté = switch = coût cognitif)
+- **Section** : I.1 (compétition attentionnelle du smartphone)
+- **Statut** : À récupérer via BU
+
+#### HAL — Une mesure des effets de l'utilisation d'un outil numérique (2020)
+`[ACCÈS LIBRE]` — **Déjà récupéré** (voir ligne 56-59)
+- **Note** : Source déjà dans `a-recuperer.md` sous Jarrier et al. (2019), édition 2020 également disponible
+- **URL HAL** : https://univ-angers.hal.science/hal-02558955v1
+- **Action** : Vérifier si version HAL diffère de la version Cairn déjà récupérée
+
+#### HAL — Technologies de géolocalisation et récolte des données
+`[ACCÈS LIBRE]` — **À télécharger**
+- **URL** : https://univ-paris8.hal.science/hal-02556325/document
+- **Type** : Article de recherche
+- **Pertinence** : Données comportementales et géolocalisation dans les musées
+- **Section** : I.1 (usages réels, parcours)
+- **Action** : Télécharger et produire fiche de lecture
+
+### PRIORITÉ 3 : Acceptation/rejet des dispositifs numériques
+
+#### Jung, Lee, Chung, Tom Dieck (2018) — TAM et satisfaction visiteurs
+`[À RÉCUPÉRER]` — **Paywall probable**
+- **Référence complète** : Jung, T., Lee, H., Chung, N., & Tom Dieck, M. C. (2018). Understanding museum visitor satisfaction and revisit intentions through mobile guide system: Moderating role of age in museum mobile guide adoption. *Asia Pacific Journal of Tourism Research*, 23(2).
+- **DOI** : 10.1080/10941665.2017.1410190
+- **URL** : https://www.tandfonline.com/doi/full/10.1080/10941665.2017.1410190
+- **Lien proxy SPN** : https://doi-org.ezproxy.univ-paris13.fr/10.1080/10941665.2017.1410190
+- **Données clés** :
+  - Étude empirique sur 408 visiteurs (National Museum of Korea)
+  - Modèle TAM étendu (Technology Acceptance Model)
+  - Facteurs : Perceived Usefulness, Perceived Ease of Use, Perceived Enjoyment, Perceived Interactivity
+  - Rôle modérateur de l'âge
+- **Pertinence** : Facteurs d'acceptation/rejet (section I.1)
+- **Statut** : À récupérer via BU
+
+#### HAL — L'imaginaire des dispositifs numériques au musée d'ethnographie (2017)
+`[ACCÈS LIBRE]` — **À télécharger**
+- **Référence complète** : Thèse de doctorat, 2017, disponible sur TEL-HAL
+- **URL** : https://theses.hal.science/tel-01513541
+- **Données clés** :
+  - Écart entre discours promotionnels technophiles et perception des professionnels
+  - Museon Arlaten (Arles) + Musée McCord (Montréal)
+  - Rapport ambivalent à l'innovation technologique en médiation
+- **Pertinence** : Freins institutionnels et professionnels à l'adoption (élargit I.1 côté producteur)
+- **Action** : Télécharger la thèse complète, identifier chapitres pertinents
+
+#### Cairn — La visite du musée de société à l'époque de la culture numérique (2018)
+`[À RÉCUPÉRER]` — **Paywall Cairn**
+- **Référence complète** : Chapitre dans *Le musée participatif*, 2018
+- **URL Cairn** : https://shs.cairn.info/le-musee-participatif--9782111452558-page-65?lang=fr
+- **Lien proxy SPN** : https://cairn-info.ezproxy.univ-paris13.fr/le-musee-participatif--9782111452558-page-65?lang=fr
+- **Pertinence** : Interactions médiatisées pendant la visite, rôle du smartphone équipé
+- **Section** : I.1 (ce que les visiteurs vivent réellement)
+- **Statut** : À récupérer via BU
+
+### SOURCES COMPLÉMENTAIRES (à évaluer)
+
+#### Nature — Drivers of museum digital humans adoption (2026)
+`[ACCÈS LIBRE probable]`
+- **URL** : https://www.nature.com/articles/s40494-026-02313-0
+- **Note** : Article récent (2026), probablement en open access dans Nature Heritage Science
+- **Pertinence** : Adoption des dispositifs numériques (angle "digital humans" = cas particulier mais modèle TAM applicable)
+- **Action** : Vérifier accès et pertinence réelle pour audioguides mobiles
+
+#### MDPI — Cognitive Insights Museum Engagement Mobile Eye-Tracking (2024)
+`[ACCÈS LIBRE]`
+- **URL** : https://www.mdpi.com/2079-9292/14/11/2208
+- **Type** : Article open access MDPI
+- **Pertinence** : Distribution de l'attention visuelle en visite, eye-tracking
+- **Section** : I.1 (compétition attentionnelle)
+- **Action** : Télécharger et évaluer pertinence
+
+#### Scientific Reports — Mere presence of smartphone reduces attention (2023)
+`[ACCÈS LIBRE]`
+- **URL** : https://www.nature.com/articles/s41598-023-36256-4
+- **Pertinence** : Effet de la simple présence du smartphone sur l'attention basale
+- **Section** : I.1 (compétition attentionnelle)
+- **Action** : Télécharger et produire fiche
+
+---
+
+## Note méthodologique — Session 2026-05-04
+
+**Recherches effectuées** :
+- HAL Science (médiation muséale, audioguide, attention, smartphone)
+- Cairn.info (médiation numérique musée)
+- Web académique (museum app adoption, smartphone distraction)
+
+**Critères de qualité appliqués** :
+- DOI vérifiable ou présence dans base académique ouverte
+- Pertinence directe pour section I.1
+- Priorité aux études empiriques avec données quantitatives
+- Période 2015-2025 privilégiée (quelques sources 2026 identifiées)
+
+**Sources écartées** :
+- Google Scholar (risque de blocage + hallucination)
+- Résultats sans DOI vérifiable ni URL académique stable
+- Sources de vulgarisation sans données primaires
+
+**Prochaines étapes** :
+1. Récupérer les sources paywall via BU (Jung et al. 2018, Siebers et al. 2024, Cairn 2018)
+2. Télécharger les sources open access identifiées (Nubart, HAL, MDPI, Nature)
+3. Produire fiches de lecture pour chaque source téléchargée
+4. Mettre à jour `a-recuperer.md` avec statuts actualisés
+
+---
+
+## Sources recommandées par le jury de soutenance M1 — Session 2026-05-05
+
+*Ces sources ont été explicitement recommandées par le jury lors de la soutenance du M1 (décembre 2024/janvier 2025).*
+
+### PRIORITÉ 1 : Vulgarisation scientifique (« totalement cardinal » selon le jury)
+
+#### Bensaude-Vincent, Bernadette — « Splendeur et décadence de la vulgarisation scientifique » (2010)
+`[PDF OK]` — `bensaude-vincent-2010-splendeur-et-decadence-de-la-vulgarisation-scientifique.pdf`
+- **Thème** : Critique de la vulgarisation, tension accessibilité/fidélité au savoir
+- **Pertinence** : Cadre théorique pour les Parties I (ton neutre) et III (vulgarisation comme solution)
+- **Action** : ✅ Récupéré — Fiche à produire
+
+#### Jourdan, Benoît — Thèse de doctorat (1973)
+`[À RÉCUPÉRER]`
+- **Titre** : « Problèmes théoriques de la vulgarisation scientifique »
+- **Discipline** : Psychologie
+- **Thème** : Fondements théoriques de la vulgarisation
+- **Pertinence** : Cadre théorique fondateur
+- **Action** : Chercher sur theses.fr ou HAL (thèses anciennes)
+
+#### Wolton, Dominique — Article Hermès
+`[À RÉCUPÉRER]`
+- **Revue** : Hermès (CNRS Éditions)
+- **Thème** : Lien entre vulgarisation des savoirs et communication
+- **Pertinence** : Vulgarisation comme acte de communication
+- **Action** : Identifier l'article exact dans les numéros d'Hermès sur la vulgarisation
+
+#### Le Marec, Joël — Travaux sur la vulgarisation
+`[CONTACT POSSIBLE]`
+- **Institution** : Muséum d'Histoire Naturelle (Paris)
+- **Thème** : Vulgarisation scientifique dans les musées
+- **Pertinence** : Perspective muséale directe
+- **Action** : Identifier publications clés + demander contact à Benoît Berthou si nécessaire
+
+### PRIORITÉ 2 : Médiations symboliques et cycles du numérique
+
+#### Davallon, Jean & Le Marec, Joël — *Exposition, représentation et communication*
+`[PDF OK]` — `EXPOSITION, REPRESENTATION et Communication - Jean Davallon et Joëlle Le marec.pdf`
+- **Thème** : Médiations symboliques dans les expositions, place des objets techniques intermédiaires
+- **Pertinence** : Cadre théorique pour penser l'audioguide comme « médiation symbolique »
+- **Note** : Ce PDF couvre à la fois Davallon ET Le Marec (deux sources du jury réunies)
+- **Action** : ✅ Récupéré — Fiche à produire
+
+#### Schmitt, Daniel & Meyer-Chemenska, Muriel — « 20 ans de numérique dans les musées »
+`[PDF OK]` — `20 ans de numérique dans les musées - Daniel Schmitt et Muriel Meyer-Chemenska.pdf`
+- **Titre complet** : « 20 ans de numérique dans les musées, entre monstration et effacement »
+- **Institution** : Université Polytechnique de Valenciennes
+- **Thème** : Cycles du numérique muséal (écran → tactile → effacement → post-numérique)
+- **Concept clé** : « Course à l'échalote » — un dispositif en chasse un autre
+- **Pertinence** : Explication de pourquoi l'audioguide n'est plus prioritaire dans le cycle
+- **Action** : ✅ Récupéré — Fiche à produire
+
+### PRIORITÉ 3 : Sociologie des publics
+
+#### Hennion, Antoine — Travaux sur les publics de la culture
+`[À RÉCUPÉRER]`
+- **Institution** : MINES ParisTech / Centre de Sociologie de l'Innovation
+- **Thème** : Sociologie des publics, médiations, amateurs
+- **Note du jury** : « le pape de la médiation/publics »
+- **Pertinence** : Cadre théorique pour la distinction public/visiteur/usager
+- **Action** : Identifier ouvrage ou article de référence (probablement *La passion musicale* ou *Réflexivité de l'amateur*)
+
+### Sources complémentaires mentionnées
+
+#### Ask Mona — Entreprise d'IA culturelle
+`[À EXPLORER]`
+- **Type** : Entreprise privée, partenaire ICOM
+- **Thème** : IA pour le secteur culturel/patrimonial
+- **Note du jury** : « Puissance de discours qu'elle développe », séminaires avec conservateurs
+- **Pertinence** : Exemple concret pour II.3 (alternatives IA) et Partie III
+- **Action** : Explorer le site, identifier les publications/présentations publiques
+
+#### Music, Pascal — Article Communication et Langage (à paraître)
+`[À SURVEILLER]`
+- **Revue** : Communication et Langage
+- **Thème** : Ask Mona / ICOM, discours institutionnel sur l'IA muséale
+- **Statut** : À paraître (date inconnue)
+- **Action** : Surveiller la sortie de l'article

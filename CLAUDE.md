@@ -137,15 +137,23 @@ source et qu'aucune source vérifiée n'est disponible, utiliser le marqueur
 `[RÉF À TROUVER: description précise du besoin]` et ajouter une entrée dans 
 `07-meta/questions-en-attente.md`. Jamais d'invention.
 
-**Workflow paywall.** Ekko a accès à la bibliothèque universitaire de 
-Sorbonne Paris Nord (proxy `ezproxy.univ-paris13.fr`, accès Cairn, 
-ScienceDirect, etc.). Quand le `chercheur-sources` identifie une source 
-pertinente derrière un paywall : (1) vérifier son existence réelle via DOI 
-ou base ouverte, (2) créer une entrée dans `06-bibliographie/a-recuperer.md` 
-avec la référence complète et le lien proxy, (3) demander à Ekko de 
-télécharger le PDF et de le déposer dans `06-bibliographie/pdfs/` avec un 
-nom normalisé. À la session suivante, détecter les nouveaux PDFs et produire 
+**Workflow paywall.** Ekko a accès à la bibliothèque universitaire de
+Sorbonne Paris Nord (proxy `ezproxy.univ-paris13.fr`, accès Cairn,
+ScienceDirect, etc.). Quand le `chercheur-sources` identifie une source
+pertinente derrière un paywall : (1) vérifier son existence réelle via DOI
+ou base ouverte, (2) créer une entrée dans `06-bibliographie/a-recuperer.md`
+avec la référence complète et le lien proxy, (3) demander à Ekko de
+télécharger le PDF et de le déposer dans `06-bibliographie/pdfs/` avec un
+nom normalisé. À la session suivante, détecter les nouveaux PDFs et produire
 les fiches de lecture.
+
+**Préférence pour les sources récentes.** Lors des recherches bibliographiques,
+privilégier les articles et ouvrages récents (2015-2026) sur les sources plus
+anciennes. Les sources fondatrices (Bourdieu, Caillet, etc.) restent mobilisables
+pour le cadrage théorique, mais pour les données empiriques et les analyses de
+terrain, préférer les publications des 10 dernières années. Cette règle vise à
+garantir l'actualité des constats et la pertinence des comparaisons avec le
+contexte numérique actuel.
 
 **Traçabilité de l'IA.** Toutes les contributions substantielles de l'agent 
 doivent être consignées dans `07-meta/contributions-ia.md`, pour qu'Ekko 

@@ -47,7 +47,7 @@ Recrutement de proximité dans le cercle social de l'enquêteur, permettant d'é
 - Âge : 21 ans
 - Profil : Visiteuse occasionnelle de musées
 - Préférences : Apprécie l'accompagnement et les explications lors de la visite
-- Lieu d'entretien : Musée des Beaux-Arts de Dijon
+- Lieu d'entretien : Musée Roger Quillot (Clermont-Ferrand)
 
 **Répondant 2**
 - Sexe : Masculin
