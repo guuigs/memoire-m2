@@ -1,6 +1,6 @@
 # État du projet — Mémoire M2
 
-*Mis à jour : 2026-05-05 (session 7 — fin)*
+*Mis à jour : 2026-05-06 (session 9 — fin)*
 
 ---
 
@@ -15,9 +15,9 @@
 | Problématique, hypothèses, méthode | ✅ Rédigée — `04-chapitres/02-prob-hyp-methode.md` |
 | Partie I — L'outil contre lui-même | ✅ **RÉDIGÉE** (~18 pages) — `04-chapitres/03-partie-I-outil-contre-lui-meme.md` |
 | Partie II — L'institution contre l'outil | ✅ **RÉDIGÉE** (~25 pages) — `04-chapitres/04-partie-II-institution-contre-outil.md` |
-| Partie III — Y a-t-il une sortie par le design ? | 🟢 Prêt à rédiger |
+| Partie III — Y a-t-il une sortie par le design ? | 🟡 III.1 rédigé (~6 pages) — III.2/III.3/III.4 en attente du prototype |
 | Conclusion | 🔜 À rédiger en dernier |
-| Bibliographie | ✅ 28 fiches produites — 7 nouvelles sources à récupérer (recommandations jury soutenance M1) |
+| Bibliographie | ✅ 31 fiches produites — 3 sources jury récupérées (Bensaude-Vincent, Schmitt & Meyer-Chemenska, Davallon & Le Marec), 4 en attente |
 
 ---
 
@@ -55,12 +55,13 @@
 7. ✅ **Rédaction Partie II (institution)** — TERMINÉE (~25 pages, session 6, 2026-05-04)
 8. ✅ Relecture M1 avec retours soutenance — synthèse produite (`07-meta/corrections-soutenance-m1.md`)
 9. ✅ **Modification M1** — vulgarisation intégrée, diorama corrigé, cycles numériques ajoutés, conclusion réécrite (session 7)
-10. Récupérer 7 sources recommandées par le jury (Davalon, Schmitt, Hennion, etc.)
-11. Produire fiches de lecture pour les nouvelles sources
+10. ✅ Récupérer sources jury (3/7 : Bensaude-Vincent, Schmitt & Meyer-Chemenska, Davallon & Le Marec) — fiches 29-31 produites
+11. ⏳ Sources jury restantes (Jung, Siebers, Cairn 2018, Hennion) — en attente récupération paywall
 12. Ajouter marqueurs [SCHÉMA PROPOSÉ] où visualisations aideraient
 13. Appliquer suggestions 2 et 3 de la réflexion critique
-14. Rédiger Partie III avec vulgarisation comme axe central
-15. Définir le périmètre du prototype
+14. ✅ Rédiger III.1 (ce que le design peut/ne peut pas) — FAIT session 9
+15. Définir le périmètre du prototype (bloquant pour III.2/III.3)
+16. Rédiger III.2 (prototype), III.3 (tests), III.4 (discussion)
 
 ---
 

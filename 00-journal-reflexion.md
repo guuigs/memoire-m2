@@ -137,6 +137,23 @@ Doutes initiaux :
 
 ---
 
+## 2026-05-06 — Session 9 : intégration sources jury + début Partie III
+
+**Où j'en suis** : « Je suis chill, tu peux engager le taff. » Continuité directe. Rien de spécial à signaler.
+
+**Ce qui s'est passé** :
+- Intégration des 3 sources jury (Bensaude-Vincent, Schmitt & Meyer-Chemenska, Davallon & Le Marec) dans la Partie II
+- Rédaction de III.1 (~6 pages) : ce que le design peut/ne peut pas résoudre
+- 4 hypothèses de conception formulées (HC1-HC4) pour cadrer le prototype
+
+**Décisions** :
+- Vulgarisation = chapitre important mais pas "au centre" de la Partie III
+- III.2/III.3/III.4 en attente du prototype
+
+**Prochaine étape** : réaliser le prototype + tests utilisateurs
+
+---
+
 ## 2026-05-04 (fin de session) — Rédaction Parties I et II, réflexion sur la vulgarisation
 
 **Où j'en suis** : J'ai rédigé les Parties I et II du mémoire (~43 pages). Partie I documente ce que vivent les visiteurs et ce que révèle le corpus. Partie II documente les contraintes institutionnelles (économiques, organisationnelles, dépossession).

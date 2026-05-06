@@ -22,6 +22,8 @@ Ce fichier centralise les questions non résolues qui nécessitent une décision
 
 - [x] **Modification M1 (retours soutenance)** : ✅ Fait session 7 (2026-05-05). Vulgarisation intégrée, diorama corrigé, cycles numériques ajoutés, conclusion réécrite.
 
+- [ ] **Prototype et tests utilisateurs** : Bloquant pour III.2/III.3/III.4. Ekko doit définir le périmètre du prototype, le réaliser, et conduire les tests (3-5 utilisateurs). 4 hypothèses de conception à tester : HC1 audio-first, HC2 incarnation, HC3 interruption, HC4 modestie.
+
 ---
 
 ## Directeur de mémoire

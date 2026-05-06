@@ -302,7 +302,7 @@ Ces sources ne sont pas dans le M1 mais seront utiles pour les parties nouvelles
 `[PDF OK]` — `bensaude-vincent-2010-splendeur-et-decadence-de-la-vulgarisation-scientifique.pdf`
 - **Thème** : Critique de la vulgarisation, tension accessibilité/fidélité au savoir
 - **Pertinence** : Cadre théorique pour les Parties I (ton neutre) et III (vulgarisation comme solution)
-- **Action** : ✅ Récupéré — Fiche à produire
+- **Action** : ✅ Récupéré — ✅ **Fiche 29 produite**
 
 #### Jourdan, Benoît — Thèse de doctorat (1973)
 `[À RÉCUPÉRER]`
@@ -328,12 +328,12 @@ Ces sources ne sont pas dans le M1 mais seront utiles pour les parties nouvelles
 
 ### PRIORITÉ 2 : Médiations symboliques et cycles du numérique
 
-#### Davallon, Jean & Le Marec, Joël — *Exposition, représentation et communication*
+#### Davallon, Jean & Le Marec, Joëlle — *Exposition, représentation et communication*
 `[PDF OK]` — `EXPOSITION, REPRESENTATION et Communication - Jean Davallon et Joëlle Le marec.pdf`
 - **Thème** : Médiations symboliques dans les expositions, place des objets techniques intermédiaires
 - **Pertinence** : Cadre théorique pour penser l'audioguide comme « médiation symbolique »
 - **Note** : Ce PDF couvre à la fois Davallon ET Le Marec (deux sources du jury réunies)
-- **Action** : ✅ Récupéré — Fiche à produire
+- **Action** : ✅ Récupéré — ✅ **Fiche 31 produite**
 
 #### Schmitt, Daniel & Meyer-Chemenska, Muriel — « 20 ans de numérique dans les musées »
 `[PDF OK]` — `20 ans de numérique dans les musées - Daniel Schmitt et Muriel Meyer-Chemenska.pdf`
@@ -342,7 +342,7 @@ Ces sources ne sont pas dans le M1 mais seront utiles pour les parties nouvelles
 - **Thème** : Cycles du numérique muséal (écran → tactile → effacement → post-numérique)
 - **Concept clé** : « Course à l'échalote » — un dispositif en chasse un autre
 - **Pertinence** : Explication de pourquoi l'audioguide n'est plus prioritaire dans le cycle
-- **Action** : ✅ Récupéré — Fiche à produire
+- **Action** : ✅ Récupéré — ✅ **Fiche 30 produite**
 
 ### PRIORITÉ 3 : Sociologie des publics
 

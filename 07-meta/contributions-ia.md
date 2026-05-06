@@ -186,3 +186,39 @@ Ce fichier consigne les contributions substantielles de l'agent IA (Claude, Anth
 **Fichier modifié** : `01-veille-source/memoire-m1.md`
 **Références ajoutées dans le texte** : Schmitt & Meyer-Shemenska (déjà dans bibliographie sous Blondeau/Meyer-Chemenska/Schmitt 2020 et Schmitt 2014). Mention de Bensaude-Vincent et Hennion retirées (sources "à récupérer") au profit de formulations générales.
 
+---
+
+## Session 9 — 2026-05-06
+
+### Intégration des 3 sources jury dans Parties I et II
+**Type** : enrichissement bibliographique du texte existant
+**Contenu** : intégration des concepts des fiches 29, 30, 31 (sources recommandées par le jury de soutenance M1) dans les Parties I et II déjà rédigées.
+
+**Modifications effectuées** :
+1. **Partie II, section II.1** : ajout d'un paragraphe sur les cycles du numérique muséal (Schmitt & Meyer-Chemenska 2015) — concept de "course à l'échalote", phases monstration → effacement → retour. Contextualise le retour au boîtier physique observé à la Cité de l'Architecture.
+
+2. **Partie II, section II.2** :
+   - Ajout d'un paragraphe sur le "modèle du déficit" (Bensaude-Vincent 2010) pour expliquer le ton neutre des audioguides — l'institution reproduit l'asymétrie expert/ignorant.
+   - Ajout d'un paragraphe sur le "dispositif communicationnel élargi" (Davallon & Le Marec 1995) — le cloisonnement conservation/médiation = échec à penser au-delà du dispositif technique.
+
+3. **Partie II, section II.4** : ajout d'un paragraphe sur la réduction au "dispositif restreint" vs "dispositif élargi" (Davallon & Le Marec 1995) — la dépossession symbolique = traiter l'audioguide uniquement comme objet technique, ignorer le visiteur comme "acteur social".
+
+**Fichier modifié** : `04-chapitres/04-partie-II-institution-contre-outil.md`
+**Note** : Les intégrations dans la Partie I (Bensaude-Vincent ligne 45, Davallon & Le Marec ligne 131) étaient déjà présentes de la session précédente.
+
+### Rédaction de III.1 — "Ce que les deux tensions impliquent pour la conception"
+**Type** : rédaction de section du mémoire
+**Contenu** : rédaction de la section III.1 (~6 pages / ~10 000 caractères), première section de la Partie III "Y a-t-il une sortie par le design ?".
+
+**Structure rédigée** :
+- Récapitulatif des deux tensions (Parties I et II)
+- Ce qu'un designer peut résoudre : ton/incarnation, interface/compétition attentionnelle, non-linéarité/équilibre guidage-autonomie, onboarding/frictions
+- Ce qu'un designer ne peut pas résoudre seul : modèle économique, chaîne de production, nature du smartphone, légitimité symbolique
+- Ce que le design peut faire : assumer les contraintes comme données de départ (concept de "post-numérique" mobilisé)
+- 4 hypothèses de conception formulées : HC1 (audio-first), HC2 (incarnation), HC3 (accepter l'interruption), HC4 (modestie du dispositif)
+
+**Fichier créé** : `04-chapitres/05-partie-III-sortie-par-le-design.md`
+**Sources mobilisées** : Bensaude-Vincent 2010 (modèle du déficit), Schmitt & Meyer-Chemenska 2015 (post-numérique), Skowronek et al. 2023 (présence smartphone), constats des Parties I et II.
+**Voix** : rédaction en "je", ton direct, formulations incarnées.
+**Signalement éditorial** : la vulgarisation est intégrée comme levier de conception (HC2 incarnation), pas comme axe central — conformément à la clarification d'Ekko.
+

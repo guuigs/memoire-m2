@@ -70,3 +70,14 @@ Ce fichier consigne les décisions importantes prises au fil des sessions. Il se
 | Sources jury à ajouter | 7 sources prioritaires identifiées : Davalon, Schmitt & Meyer-Shemenska, Le Marec, Wolton, Bensaude-Vincent, Jourdan (1973), Hennion. Ajoutées à `06-bibliographie/a-recuperer.md`. | ⏳ À récupérer |
 | Impacts Parties I-II | Impacts mineurs identifiés : ajouts de références théoriques ciblés, pas de réécriture massive. Détails dans `corrections-soutenance-m1.md`. | ✅ Documenté |
 
+---
+
+## Session 9 — 2026-05-06
+
+| Décision | Contenu | Statut |
+|---|---|---|
+| Intégration sources jury dans Parties I-II | 3 sources jury (Bensaude-Vincent, Schmitt & Meyer-Chemenska, Davallon & Le Marec) intégrées dans la Partie II existante. Concepts ajoutés : "course à l'échalote", "modèle du déficit", "dispositif restreint/élargi". | ✅ Fait |
+| Place de la vulgarisation | Clarification Ekko : la vulgarisation n'est pas "au centre" de la Partie III, mais c'est un chapitre qu'on ne peut pas ignorer. Intégrée dans III.1 comme levier de conception parmi d'autres. | ✅ Validée |
+| Rédaction Partie III | III.1 rédigé (~6 pages). III.2/III.3/III.4 en attente du matériau prototype. | ✅ Partiel |
+| 4 hypothèses de conception | HC1 (audio-first), HC2 (incarnation), HC3 (accepter l'interruption), HC4 (modestie du dispositif) — serviront de cadre pour le prototype. | ✅ Actées |
+
