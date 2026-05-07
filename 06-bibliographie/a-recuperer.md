@@ -305,7 +305,7 @@ Ces sources ne sont pas dans le M1 mais seront utiles pour les parties nouvelles
 - **Action** : ✅ Récupéré — ✅ **Fiche 29 produite**
 
 #### Jourdan, Benoît — Thèse de doctorat (1973)
-`[À RÉCUPÉRER]`
+`[RÉCUPÉRER]`
 - **Titre** : « Problèmes théoriques de la vulgarisation scientifique »
 - **Discipline** : Psychologie
 - **Thème** : Fondements théoriques de la vulgarisation
@@ -313,18 +313,11 @@ Ces sources ne sont pas dans le M1 mais seront utiles pour les parties nouvelles
 - **Action** : Chercher sur theses.fr ou HAL (thèses anciennes)
 
 #### Wolton, Dominique — Article Hermès
-`[À RÉCUPÉRER]`
+`[RÉCUPÉRER]`
 - **Revue** : Hermès (CNRS Éditions)
 - **Thème** : Lien entre vulgarisation des savoirs et communication
 - **Pertinence** : Vulgarisation comme acte de communication
 - **Action** : Identifier l'article exact dans les numéros d'Hermès sur la vulgarisation
-
-#### Le Marec, Joël — Travaux sur la vulgarisation
-`[CONTACT POSSIBLE]`
-- **Institution** : Muséum d'Histoire Naturelle (Paris)
-- **Thème** : Vulgarisation scientifique dans les musées
-- **Pertinence** : Perspective muséale directe
-- **Action** : Identifier publications clés + demander contact à Benoît Berthou si nécessaire
 
 ### PRIORITÉ 2 : Médiations symboliques et cycles du numérique
 
@@ -344,15 +337,6 @@ Ces sources ne sont pas dans le M1 mais seront utiles pour les parties nouvelles
 - **Pertinence** : Explication de pourquoi l'audioguide n'est plus prioritaire dans le cycle
 - **Action** : ✅ Récupéré — ✅ **Fiche 30 produite**
 
-### PRIORITÉ 3 : Sociologie des publics
-
-#### Hennion, Antoine — Travaux sur les publics de la culture
-`[À RÉCUPÉRER]`
-- **Institution** : MINES ParisTech / Centre de Sociologie de l'Innovation
-- **Thème** : Sociologie des publics, médiations, amateurs
-- **Note du jury** : « le pape de la médiation/publics »
-- **Pertinence** : Cadre théorique pour la distinction public/visiteur/usager
-- **Action** : Identifier ouvrage ou article de référence (probablement *La passion musicale* ou *Réflexivité de l'amateur*)
 
 ### Sources complémentaires mentionnées
 
