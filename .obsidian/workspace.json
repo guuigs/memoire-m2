@@ -1,0 +1,214 @@
+{
+  "main": {
+    "id": "cf43537be87dd368",
+    "type": "split",
+    "children": [
+      {
+        "id": "74ca6cce2f2baafa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c0f22ab9a9d1d523",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04-chapitres/02-prob-hyp-methode.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "02-prob-hyp-methode"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "be12d7cbfcf4caa7",
+    "type": "split",
+    "children": [
+      {
+        "id": "303851470f6804b1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "34a144f0320774f9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorateur de fichiers"
+            }
+          },
+          {
+            "id": "9ec7c9725fb49a12",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Rechercher"
+            }
+          },
+          {
+            "id": "cf2d12bd2dff948c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Signets"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "18fc55ad1ee2b63f",
+    "type": "split",
+    "children": [
+      {
+        "id": "7a6e185a8a37d6bb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7e8a161b4c11063b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Bienvenue.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Rétrolien pour Bienvenue"
+            }
+          },
+          {
+            "id": "2552a1363d96e626",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Bienvenue.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Liens sortants de Bienvenue"
+            }
+          },
+          {
+            "id": "b0cf92ff85950faa",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Mots-clés"
+            }
+          },
+          {
+            "id": "ea268d5c28a738b0",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Toutes les propriétés"
+            }
+          },
+          {
+            "id": "dc170f2226890bb9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Bienvenue.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Plan de Bienvenue"
+            }
+          },
+          {
+            "id": "c2acce413c64cd90",
+            "type": "leaf",
+            "state": {
+              "type": "sidenote-view",
+              "state": {
+                "filePath": "04-chapitres/02-prob-hyp-methode.md"
+              },
+              "icon": "message-square",
+              "title": "Side Note"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Ouvrir le sélecteur rapide": false,
+      "graph:Ouvrir la vue graphique": false,
+      "canvas:Créer une nouvelle toile": false,
+      "daily-notes:Ouvrir la note quotidienne": false,
+      "templates:Insérer le modèle": false,
+      "command-palette:Ouvrir la palette de commandes": false,
+      "bases:Créer une nouvelle base": false,
+      "side-note:Side Note: Open in Sidebar": false
+    }
+  },
+  "active": "c0f22ab9a9d1d523",
+  "lastOpenFiles": [
+    "04-chapitres/03-partie-I-outil-contre-lui-meme.md",
+    "04-chapitres/note-usage-ia.md",
+    "04-chapitres/05-partie-III-sortie-par-le-design.md",
+    "04-chapitres/02-prob-hyp-methode.md",
+    "04-chapitres/04-partie-II-institution-contre-outil.md",
+    "01-veille-source/memoire-m1.pdf",
+    "01-veille-source/memoire-m1.md",
+    "consignes mémoire M2-3 (2).pdf",
+    "Sans titre 1.base",
+    "Sans titre 2.base",
+    "Sans titre.base",
+    "Bienvenue.md"
+  ]
+}

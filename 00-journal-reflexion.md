@@ -154,13 +154,26 @@ Doutes initiaux :
 
 ---
 
+## 2026-05-07 — Session 10 : nettoyage bibliographique, préparation prototype
+
+**Où j'en suis** : Pas de changement intellectuel depuis la session 9. Continuité directe.
+
+**Ce qui s'est passé** :
+- Nettoyage du fichier `a-recuperer.md`
+- 2 nouveaux PDFs détectés : Wolton (1997) et Deprez/Jurdant (2011) — fiches à produire
+- 3 sources paywall toujours manquantes (Jung, Siebers, Cairn 2018)
+
+**Prochaine étape** : Prototype et tests utilisateurs (bloquant pour III.2/III.3/III.4)
+
+---
+
 ## 2026-05-04 (fin de session) — Rédaction Parties I et II, réflexion sur la vulgarisation
 
 **Où j'en suis** : J'ai rédigé les Parties I et II du mémoire (~43 pages). Partie I documente ce que vivent les visiteurs et ce que révèle le corpus. Partie II documente les contraintes institutionnelles (économiques, organisationnelles, dépossession).
 
 **Ce qui a bougé intellectuellement** :
 
-La **vulgarisation** est le cœur de la solution, pas juste un "détail de conception". Adapter les formats et les tons à notre époque (YouTube, podcasts, récits incarnés) n'est pas une option secondaire — c'est LA réponse au problème du contenu ennuyeux. Je l'ai documenté dans les Parties I-II (critique du ton neutre, valorisation du Pop Guide de Langeais), mais pas assez explicitement comme **axe de solution prioritaire**. 
+La **vulgarisation** est le cœur de la solution, pas juste un "détail de conception". Adapter les formats et les tons à notre époque (YouTube, podcasts, récits incarnés) n'est pas une option secondaire — c'est LA réponse au problème du contenu ennuyeux. Je l'ai documenté dans les Parties I-II (critique du ton neutre, valorisation du Pop Guide de Langeais), mais pas assez explicitement comme **axe de solution prioritaire**.
 
 → Action : dans la Partie III, mettre la vulgarisation au centre. Montrer que vulgariser ≠ simplifier bêtement, mais **raconter avec une voix, un rythme, une incarnation**.
 

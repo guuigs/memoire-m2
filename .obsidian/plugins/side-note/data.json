@@ -1,0 +1,101 @@
+{
+  "commentSortOrder": "position",
+  "showHighlights": true,
+  "markdownFolder": "side-note-comments",
+  "highlightColor": "#FFC800",
+  "highlightOpacity": 0.2,
+  "showResolvedComments": false,
+  "comments": [
+    {
+      "id": "6875255f-55a1-44fb-8a78-0d903014f61c",
+      "filePath": "04-chapitres/02-prob-hyp-methode.md",
+      "startLine": 6,
+      "startChar": 0,
+      "endLine": 6,
+      "endChar": 14,
+      "selectedText": "La littérature",
+      "selectedTextHash": "a61a9a97f61bf2529e0b03e06666d3784f8f373b5305f0dcb9e6f518ab0a0082",
+      "comment": "utiliser un autre terme plus simple\n",
+      "timestamp": 1778149238674,
+      "isOrphaned": false
+    },
+    {
+      "id": "f4262ccc-dd7e-46bb-bc54-f8aefb77731a",
+      "filePath": "04-chapitres/02-prob-hyp-methode.md",
+      "startLine": 6,
+      "startChar": 44,
+      "endLine": 6,
+      "endChar": 88,
+      "selectedText": "en contexte muséal livre un message cohérent",
+      "selectedTextHash": "372894ef3d762d1ff1a7d2580c8501d4b0556327e0d2b5b67039ca99be475785",
+      "comment": "formulation IA, tourne le en mode, \"voici ce que les sources nous apprennent\"",
+      "timestamp": 1778149283440,
+      "isOrphaned": false
+    },
+    {
+      "id": "b92f2fe5-1fa0-47e2-89ae-d587d30af1fd",
+      "filePath": "04-chapitres/02-prob-hyp-methode.md",
+      "startLine": 6,
+      "startChar": 510,
+      "endLine": 6,
+      "endChar": 538,
+      "selectedText": " Ben Nasr précise ce tableau",
+      "selectedTextHash": "da8d3d97234d3dfa7de1c057b023772a08e1125cceb95a0e36dcd3bb77a8ba2a",
+      "comment": "pas compris, quel tableau ? \n",
+      "timestamp": 1778149347806,
+      "isOrphaned": false
+    },
+    {
+      "id": "8fb085a9-00d1-4bbb-89dd-9d2703cb61bb",
+      "filePath": "04-chapitres/02-prob-hyp-methode.md",
+      "startLine": 6,
+      "startChar": 688,
+      "endLine": 6,
+      "endChar": 1157,
+      "selectedText": "Pour confirmer cela, on peut prendre l'exemple des travaux de Jarrier, Bourgeon-Renault et Belvaux (2019) : sur un échantillon de 916 visiteurs du Louvre, ils confirment que les outils numériques élèvent les scores d'expérience affective et cognitive et apportent une nuance : chaque dispositif produit une expérience différente et s'adresse à un public différent, ce qui interdit d'assimiler audioguide dédié et application mobile comme s'ils étaient interchangeables.",
+      "selectedTextHash": "6982bc04e1e2bfd7e7d4178773f47824ca8484b8f93614f930e1811a359618b6",
+      "comment": "phrase trop longue, a recouper",
+      "timestamp": 1778149454639,
+      "isOrphaned": false
+    },
+    {
+      "id": "8eb7fe7d-4f52-47e1-9258-62472d11eb41",
+      "filePath": "04-chapitres/02-prob-hyp-methode.md",
+      "startLine": 8,
+      "startChar": 0,
+      "endLine": 8,
+      "endChar": 83,
+      "selectedText": "La littérature établit donc la condition de possibilité — ce que peut faire l'outil",
+      "selectedTextHash": "faab090ad8a447367ec63c3af0ae2cfc4876fc6f661d960e8ac0d18fa07ed091",
+      "comment": "La littérature permet donc d'envisager les possibilités de l'outil, suur un plan théorique certe, mais qui nous illustre le panel riche de l'audioguide.",
+      "timestamp": 1778150028704,
+      "isOrphaned": false
+    },
+    {
+      "id": "c53e7266-a910-4e32-a488-afe857264dde",
+      "filePath": "04-chapitres/02-prob-hyp-methode.md",
+      "startLine": 8,
+      "startChar": 214,
+      "endLine": 8,
+      "endChar": 533,
+      "selectedText": "Elle documente les effets positifs dans des conditions contrôlées, avec des apps qui fonctionnent et un public préalablement sélectionné ou volontaire. Elle ne documente pas l'usage ordinaire, dans la masse des institutions françaises, avec des apps que personne n'a téléchargées et des visiteurs qui n'y ont pas pensé.",
+      "selectedTextHash": "5bd71576109f9c15aef797276fdff1f78654c4336d1bbc880dfde26405882c86",
+      "comment": "Tu tourne sur la littérature ultra positive alors que c'est faux, on a aussi des documents, parfois, sur le pourquoi du comment ca ne fonctionne pas forcément. \n\nOn peut aussi parler des études privées qui ont un intérêt aux études positives sur le sujet dans l'objectif de vendre -> sujet important à creuser.\n\nOn garde ce paragraphe ? On le réécrit ? Tu n'es pas d'accord avec moi ?",
+      "timestamp": 1778150125401,
+      "isOrphaned": false
+    },
+    {
+      "id": "15b33688-f0d9-4d80-b1c6-b4db32340bbf",
+      "filePath": "04-chapitres/02-prob-hyp-methode.md",
+      "startLine": 10,
+      "startChar": 174,
+      "endLine": 10,
+      "endChar": 246,
+      "selectedText": " En 2018, on en comptait 456 (Ben Nasr, Hallem & De Carli, 2018, p. 194)",
+      "selectedTextHash": "dd4aac5342da5dcb5dd0f1fdb29f21da25221d481afa16f35689db9c8b23ed81",
+      "comment": "530 en 2021 (https://www.club-innovation-culture.fr/applications-mobiles-france-3/)",
+      "timestamp": 1778150237166,
+      "isOrphaned": false
+    }
+  ]
+}
