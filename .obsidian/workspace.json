@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04-chapitres/02-prob-hyp-methode.md",
+                "file": "04-chapitres/03-partie-I-outil-contre-lui-meme.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "02-prob-hyp-methode"
+              "title": "03-partie-I-outil-contre-lui-meme"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "18fc55ad1ee2b63f",
@@ -171,7 +171,7 @@
             "state": {
               "type": "sidenote-view",
               "state": {
-                "filePath": "04-chapitres/02-prob-hyp-methode.md"
+                "filePath": "04-chapitres/03-partie-I-outil-contre-lui-meme.md"
               },
               "icon": "message-square",
               "title": "Side Note"
@@ -182,7 +182,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 371.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -198,11 +198,11 @@
   },
   "active": "c0f22ab9a9d1d523",
   "lastOpenFiles": [
-    "04-chapitres/03-partie-I-outil-contre-lui-meme.md",
-    "04-chapitres/note-usage-ia.md",
-    "04-chapitres/05-partie-III-sortie-par-le-design.md",
     "04-chapitres/02-prob-hyp-methode.md",
+    "04-chapitres/03-partie-I-outil-contre-lui-meme.md",
+    "04-chapitres/05-partie-III-sortie-par-le-design.md",
     "04-chapitres/04-partie-II-institution-contre-outil.md",
+    "04-chapitres/note-usage-ia.md",
     "01-veille-source/memoire-m1.pdf",
     "01-veille-source/memoire-m1.md",
     "consignes mémoire M2-3 (2).pdf",
