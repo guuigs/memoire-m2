@@ -277,9 +277,9 @@
       "id": "f65bf18a-170d-49c1-ac84-df3eb3c17e00",
       "filePath": "04-chapitres/03-partie-I-outil-contre-lui-meme.md",
       "startLine": 20,
-      "startChar": 321,
+      "startChar": 836,
       "endLine": 20,
-      "endChar": 429,
+      "endChar": 944,
       "selectedText": " « Le problème c'est la batterie, les écouteurs, et puis on a besoin du téléphone pour prendre des photos. »",
       "selectedTextHash": "25d0ef025c9f296bd24f045bbb5a8eec3c3424b967e04a1f27d147dc7b384f08",
       "comment": "ce verbatim exprime plutôt l'aspect de la problématique matériel et pas de rétention d'attention. La on parle plutot de la charge de devoir penser a prendre des écouteurs, avoir un téléphone chargé ou on accepte de lui faire perdre de la batterie, etc.\n\nPlutot a utiliser dans l'argumenet juste en dessous",
@@ -327,7 +327,7 @@
       "selectedTextHash": "625677dcf88d61b8d74645d9b6590dde7ad7f10486fd4e45ec7ffa79dc6840a3",
       "comment": "pas assez clair, il faut proposer une autre version de e paragraphe",
       "timestamp": 1778494756611,
-      "isOrphaned": false
+      "isOrphaned": true
     },
     {
       "id": "b78b432d-e0f6-4050-ac73-322d7e3fa97d",
@@ -475,7 +475,7 @@
       "selectedTextHash": "1dc0cbde5864d00b5fb8df5c43b05348682db1f4fc9a1a8ab3b6b8d58333d4a0",
       "comment": "tableau complet disponible en annexe",
       "timestamp": 1778503228106,
-      "isOrphaned": false
+      "isOrphaned": true
     },
     {
       "id": "41a385aa-7b17-4376-b0cf-7417698cb273",
@@ -546,9 +546,7 @@
       "selectedTextHash": "bc8161d919a78aa8ff8176468a671a0285fa26fe1c9cac40fb74d140f407c376",
       "comment": "et aussi insisiter sur le fait qu'il y a surement un plafon de verre autour des 20% qui s'explique par le fais qu'une grande majorité des gens ont un usage de leur visite de musée qui n'implique pas une volonté de médiation importante mais plus de déambulation et d'échange sociaux (amis, famille) \n\n\na verifier avec les chiffres et reformuler en fonction",
       "timestamp": 1778504193662,
-      "isOrphaned": false,
-      "resolved": true,
-      "resolvedAt": 1747152000000
+      "isOrphaned": true
     },
     {
       "id": "c2341e61-0ccd-4231-bb58-f143ccf14dbc",
