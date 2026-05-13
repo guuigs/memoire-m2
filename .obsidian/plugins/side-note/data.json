@@ -9,15 +9,17 @@
     {
       "id": "6875255f-55a1-44fb-8a78-0d903014f61c",
       "filePath": "04-chapitres/02-prob-hyp-methode.md",
-      "startLine": 6,
+      "startLine": 8,
       "startChar": 0,
-      "endLine": 6,
+      "endLine": 8,
       "endChar": 14,
       "selectedText": "La littérature",
       "selectedTextHash": "a61a9a97f61bf2529e0b03e06666d3784f8f373b5305f0dcb9e6f518ab0a0082",
       "comment": "utiliser un autre terme plus simple\n",
       "timestamp": 1778149238674,
-      "isOrphaned": false
+      "isOrphaned": true,
+      "resolved": true,
+      "resolvedAt": 1747065600000
     },
     {
       "id": "f4262ccc-dd7e-46bb-bc54-f8aefb77731a",
@@ -30,33 +32,37 @@
       "selectedTextHash": "372894ef3d762d1ff1a7d2580c8501d4b0556327e0d2b5b67039ca99be475785",
       "comment": "formulation IA, tourne le en mode, \"voici ce que les sources nous apprennent\"",
       "timestamp": 1778149283440,
-      "isOrphaned": false
+      "isOrphaned": true,
+      "resolved": true,
+      "resolvedAt": 1747065600000
     },
     {
       "id": "b92f2fe5-1fa0-47e2-89ae-d587d30af1fd",
       "filePath": "04-chapitres/02-prob-hyp-methode.md",
       "startLine": 6,
-      "startChar": 510,
+      "startChar": 505,
       "endLine": 6,
-      "endChar": 538,
+      "endChar": 533,
       "selectedText": " Ben Nasr précise ce tableau",
       "selectedTextHash": "da8d3d97234d3dfa7de1c057b023772a08e1125cceb95a0e36dcd3bb77a8ba2a",
       "comment": "pas compris, quel tableau ? \n",
       "timestamp": 1778149347806,
-      "isOrphaned": false
+      "isOrphaned": true
     },
     {
       "id": "8fb085a9-00d1-4bbb-89dd-9d2703cb61bb",
       "filePath": "04-chapitres/02-prob-hyp-methode.md",
       "startLine": 6,
-      "startChar": 688,
+      "startChar": 683,
       "endLine": 6,
-      "endChar": 1157,
+      "endChar": 1152,
       "selectedText": "Pour confirmer cela, on peut prendre l'exemple des travaux de Jarrier, Bourgeon-Renault et Belvaux (2019) : sur un échantillon de 916 visiteurs du Louvre, ils confirment que les outils numériques élèvent les scores d'expérience affective et cognitive et apportent une nuance : chaque dispositif produit une expérience différente et s'adresse à un public différent, ce qui interdit d'assimiler audioguide dédié et application mobile comme s'ils étaient interchangeables.",
       "selectedTextHash": "6982bc04e1e2bfd7e7d4178773f47824ca8484b8f93614f930e1811a359618b6",
       "comment": "phrase trop longue, a recouper",
       "timestamp": 1778149454639,
-      "isOrphaned": false
+      "isOrphaned": true,
+      "resolved": true,
+      "resolvedAt": 1747065600000
     },
     {
       "id": "8eb7fe7d-4f52-47e1-9258-62472d11eb41",
@@ -69,20 +75,22 @@
       "selectedTextHash": "faab090ad8a447367ec63c3af0ae2cfc4876fc6f661d960e8ac0d18fa07ed091",
       "comment": "La littérature permet donc d'envisager les possibilités de l'outil, suur un plan théorique certe, mais qui nous illustre le panel riche de l'audioguide.",
       "timestamp": 1778150028704,
-      "isOrphaned": false
+      "isOrphaned": true,
+      "resolved": true,
+      "resolvedAt": 1747065600000
     },
     {
       "id": "c53e7266-a910-4e32-a488-afe857264dde",
       "filePath": "04-chapitres/02-prob-hyp-methode.md",
       "startLine": 8,
-      "startChar": 214,
+      "startChar": 304,
       "endLine": 8,
-      "endChar": 533,
+      "endChar": 623,
       "selectedText": "Elle documente les effets positifs dans des conditions contrôlées, avec des apps qui fonctionnent et un public préalablement sélectionné ou volontaire. Elle ne documente pas l'usage ordinaire, dans la masse des institutions françaises, avec des apps que personne n'a téléchargées et des visiteurs qui n'y ont pas pensé.",
       "selectedTextHash": "5bd71576109f9c15aef797276fdff1f78654c4336d1bbc880dfde26405882c86",
       "comment": "Tu tourne sur la littérature ultra positive alors que c'est faux, on a aussi des documents, parfois, sur le pourquoi du comment ca ne fonctionne pas forcément. \n\nOn peut aussi parler des études privées qui ont un intérêt aux études positives sur le sujet dans l'objectif de vendre -> sujet important à creuser.\n\nOn garde ce paragraphe ? On le réécrit ? Tu n'es pas d'accord avec moi ?",
       "timestamp": 1778150125401,
-      "isOrphaned": false
+      "isOrphaned": true
     },
     {
       "id": "15b33688-f0d9-4d80-b1c6-b4db32340bbf",
@@ -121,7 +129,7 @@
       "selectedTextHash": "4bd23939fa7c4e9c6145921e84d774d05a5df0396062871c7712ffeeff5b0162",
       "comment": "j'aime bien l'idée mais plus court",
       "timestamp": 1778492430664,
-      "isOrphaned": false
+      "isOrphaned": true
     },
     {
       "id": "fc61c20f-662a-41d5-bab5-03eb8746f3e5",
@@ -134,7 +142,9 @@
       "selectedTextHash": "b597504583845d4091b719b4752f883f0baea465279a9436890f415f65b7f1b8",
       "comment": "indiquer que le protocole de visite et les échanges complets sont disponibles en Annexe",
       "timestamp": 1778492495098,
-      "isOrphaned": false
+      "isOrphaned": false,
+      "resolved": true,
+      "resolvedAt": 1747065600000
     },
     {
       "id": "98faa287-24ea-43ab-b87d-ca28c6388e0d",
@@ -147,7 +157,9 @@
       "selectedTextHash": "ab587e53d4522587bb29804cd673605a508d4acee9587e1e41bb59b8e68454e7",
       "comment": "Indiquer que le protocole complet et les échanges sont disponibles en annexe",
       "timestamp": 1778492514881,
-      "isOrphaned": false
+      "isOrphaned": false,
+      "resolved": true,
+      "resolvedAt": 1747065600000
     },
     {
       "id": "8241a1c2-402e-4470-a5e3-c1b51d0678e4",
@@ -160,7 +172,9 @@
       "selectedTextHash": "ba71cc6b5562141d08fee1b95e375a3ada7cd9797d2504a7cb3e54b798028ba3",
       "comment": "trop style IA",
       "timestamp": 1778492566098,
-      "isOrphaned": false
+      "isOrphaned": true,
+      "resolved": true,
+      "resolvedAt": 1747065600000
     },
     {
       "id": "3702b67c-7edc-48fe-af1d-563b64ec6891",
@@ -173,7 +187,9 @@
       "selectedTextHash": "d84cbc46a5dff2b0bc29280629eeb4bacbb23495c9c734d1a7c2221fe240f431",
       "comment": "dispo en annexe",
       "timestamp": 1778492783935,
-      "isOrphaned": false
+      "isOrphaned": false,
+      "resolved": true,
+      "resolvedAt": 1747065600000
     },
     {
       "id": "e74bd6a1-c7f0-4752-abec-20baede4d271",
@@ -186,7 +202,9 @@
       "selectedTextHash": "3ae84286b91e9f4d6bf5ee959a0ee6b7bc8fd585257bc8e8cafacc1c9c27cfcd",
       "comment": "total dispo en annexe",
       "timestamp": 1778492853533,
-      "isOrphaned": false
+      "isOrphaned": false,
+      "resolved": true,
+      "resolvedAt": 1747065600000
     },
     {
       "id": "b87f2f81-e5fb-40da-aa45-1e10944684ba",
@@ -212,7 +230,7 @@
       "selectedTextHash": "10b85a73e635447b74c89ad00df024e751603188918020f8e3ed22b3728c6822",
       "comment": "est-ce que ca ne risque pas d'être du redit sur le chapitre méthodo ? ",
       "timestamp": 1778494171320,
-      "isOrphaned": false
+      "isOrphaned": true
     },
     {
       "id": "345262d1-fb7c-4b4b-9f9d-eeff64b044c5",
@@ -225,7 +243,7 @@
       "selectedTextHash": "d8edaf3f61e9f1027d7d1898c1e90b57964d210902293c87f405edae7eb7cdc6",
       "comment": "plus insisté \"un outil positivement persu pour apprendre des choses\" \"les gens sont habitués à consommer sur téléphone\"",
       "timestamp": 1778494221118,
-      "isOrphaned": false
+      "isOrphaned": true
     },
     {
       "id": "b2df830f-f15c-4f39-90de-4a64c4e92792",
@@ -238,7 +256,9 @@
       "selectedTextHash": "24707dff0db8b6abc1306bf447d3a9d6f285fb3955ad27bb9f1580be8f7ac7a0",
       "comment": "plus simple",
       "timestamp": 1778494307031,
-      "isOrphaned": false
+      "isOrphaned": true,
+      "resolved": true,
+      "resolvedAt": 1747065600000
     },
     {
       "id": "b77ab26e-7d14-40fe-8d3d-32b47aa18f27",
@@ -277,27 +297,31 @@
       "selectedTextHash": "64fc94caed8a0e5223ba697f2a44b07f4cdc7c77fd05ccd546517f3cac0a7def",
       "comment": "autre mot plus simple\n",
       "timestamp": 1778494642760,
-      "isOrphaned": false
+      "isOrphaned": true,
+      "resolved": true,
+      "resolvedAt": 1747065600000
     },
     {
       "id": "ff646381-93b0-4b81-b087-4eb25a92d52c",
       "filePath": "04-chapitres/03-partie-I-outil-contre-lui-meme.md",
       "startLine": 28,
-      "startChar": 744,
+      "startChar": 743,
       "endLine": 28,
-      "endChar": 761,
+      "endChar": 760,
       "selectedText": "*returning users*",
       "selectedTextHash": "210c554ff46d2db1d060219ab23b80e5e30a19b46f86c2a772f78bd0dc71f55a",
       "comment": "ajouter une traduction/signification",
       "timestamp": 1778494664780,
-      "isOrphaned": false
+      "isOrphaned": false,
+      "resolved": true,
+      "resolvedAt": 1747065600000
     },
     {
       "id": "320df528-4519-43c6-bdad-e57ad7691985",
       "filePath": "04-chapitres/03-partie-I-outil-contre-lui-meme.md",
-      "startLine": 32,
+      "startLine": 34,
       "startChar": 0,
-      "endLine": 32,
+      "endLine": 34,
       "endChar": 1082,
       "selectedText": "Le troisième moment d'abandon se situe **en cours de visite**, sous l'effet d'une contrainte temporelle. L'étude de Marques et Costello (2017) sur l'application *Skin & Bones* du Smithsonian montre que l'usage d'une application mobile en galerie **ralentit le visiteur d'un facteur 4** : la durée moyenne de visite passe de 3 minutes 24 secondes sans application à 14 minutes avec application. Les auteurs notent : « Using a mobile app slows down the visitor, which is what exhibition designers strive to achieve, yet in this setting it is somewhat at odds with the pace visitors set for themselves. » Autrement dit, **14 minutes semble être le plafond de ce que les visiteurs acceptent de consacrer à une section muséale avec audioguide**. Au-delà, ils décrochent, zappent des contenus, ou abandonnent l'application. Cette contrainte temporelle explique pourquoi, dans mon questionnaire, les visiteurs insistent sur le besoin de « rester libres » : ils veulent pouvoir accélérer ou ralentir leur rythme, passer une œuvre, y revenir plus tard, sans se sentir « imposer une visite ».",
       "selectedTextHash": "625677dcf88d61b8d74645d9b6590dde7ad7f10486fd4e45ec7ffa79dc6840a3",
@@ -308,28 +332,32 @@
     {
       "id": "b78b432d-e0f6-4050-ac73-322d7e3fa97d",
       "filePath": "04-chapitres/03-partie-I-outil-contre-lui-meme.md",
-      "startLine": 34,
+      "startLine": 36,
       "startChar": 254,
-      "endLine": 34,
+      "endLine": 36,
       "endChar": 492,
       "selectedText": "Ce paradoxe — plus de temps disponible hors musée, meilleur engagement, mais moins de visiteurs — suggère que l'application mobile pourrait avoir un rôle bimodal : compagnon léger pendant la visite, ressource approfondie après la visite. ",
       "selectedTextHash": "4dbe4f3753b952645e0fee085a05d4a7e575bbf1a039a30b77e48fc539cb53ba",
       "comment": "arreter avec les tirets, ca fait trop IA",
       "timestamp": 1778494805710,
-      "isOrphaned": false
+      "isOrphaned": true,
+      "resolved": true,
+      "resolvedAt": 1747065600000
     },
     {
       "id": "d69d884d-3c88-451e-a1d5-63501bd4fe83",
       "filePath": "04-chapitres/03-partie-I-outil-contre-lui-meme.md",
-      "startLine": 38,
+      "startLine": 44,
       "startChar": 0,
-      "endLine": 38,
+      "endLine": 44,
       "endChar": 20,
       "selectedText": "Le troisième constat",
       "selectedTextHash": "887bbef6c64c4581cd4314a4d46585c7f6bf6571f029d3d539a9295dc2212eb5",
       "comment": "Rappeler constat de quoi, on se perd sinon ",
       "timestamp": 1778496225770,
-      "isOrphaned": false
+      "isOrphaned": false,
+      "resolved": true,
+      "resolvedAt": 1747065600000
     },
     {
       "id": "48a28bb4-5cf6-4f92-b0b4-a8c0869d8554",
@@ -342,92 +370,106 @@
       "selectedTextHash": "e220f3aff247e142df84f3640bd4976a138187c16b34969dacda8dd03f259dba",
       "comment": "deuxieme constat de quoi ? rappel de l'origine",
       "timestamp": 1778496247134,
-      "isOrphaned": false
+      "isOrphaned": false,
+      "resolved": true,
+      "resolvedAt": 1747065600000
     },
     {
       "id": "a5ef90f4-bf0a-4e43-af39-e16bb3072f18",
       "filePath": "04-chapitres/03-partie-I-outil-contre-lui-meme.md",
-      "startLine": 40,
+      "startLine": 46,
       "startChar": 692,
-      "endLine": 40,
+      "endLine": 46,
       "endChar": 695,
       "selectedText": "SDK",
       "selectedTextHash": "95ed80a9188ddc42b9200a97c50ce39a0910e982a3cc86ae4362f42702c603b4",
       "comment": "expliquer ce qu'est un SDK",
       "timestamp": 1778502671534,
-      "isOrphaned": false
+      "isOrphaned": false,
+      "resolved": true,
+      "resolvedAt": 1747065600000
     },
     {
       "id": "c6dc8a36-bbff-4b6e-a020-599aa00c3c8f",
       "filePath": "04-chapitres/03-partie-I-outil-contre-lui-meme.md",
-      "startLine": 42,
-      "startChar": 881,
-      "endLine": 42,
-      "endChar": 1263,
+      "startLine": 52,
+      "startChar": 182,
+      "endLine": 52,
+      "endChar": 564,
       "selectedText": " Depuis 10-15 ans et l'avènement des réseaux sociaux, nos populations connectés sont saturées de contenu en tout genre et deviennent plus exigeantes, au risque de passer au suivant et de ne plus être impliqué dans le dispositif. Les musées doivent repenser leur chaine de création de contenu et leur approche de la distribution de la connaissance au risque de perdre leurs publics. ",
       "selectedTextHash": "28802de8731dd09833b4af02d58934dfb16ad782f835afc198690eadb0b24676",
       "comment": "C'est moi qui l'ai rajouté, c'est important mais je ne sais pas si c'est exactement comme ca qu'il faut l'écrire. ",
       "timestamp": 1778502884900,
-      "isOrphaned": false
+      "isOrphaned": true,
+      "resolved": true,
+      "resolvedAt": 1747065600000
     },
     {
       "id": "2452f67a-48fb-432b-a87d-4b10fd269eb7",
       "filePath": "04-chapitres/03-partie-I-outil-contre-lui-meme.md",
-      "startLine": 44,
+      "startLine": 54,
       "startChar": 198,
-      "endLine": 44,
+      "endLine": 54,
       "endChar": 481,
       "selectedText": "structure la vulgarisation depuis le XXe siècle : le public y est défini par ce qu'il lui manque (connaissances, méthode, rigueur), et la communication vise à « combler le fossé » entre l'expert et l'ignorant. Or, ce cadrage présuppose et perpétue l'asymétrie qu'il prétend réduire. ",
       "selectedTextHash": "a1f7ac99d74e33d9f9a4f77772c63dfd91daddec3dfe8426e278f7f3039fc24b",
       "comment": "réécrire, trop IA",
       "timestamp": 1778502912864,
-      "isOrphaned": false
+      "isOrphaned": true,
+      "resolved": true,
+      "resolvedAt": 1747065600000
     },
     {
       "id": "8a69d724-6d46-496d-bea1-f1491f117771",
       "filePath": "04-chapitres/03-partie-I-outil-contre-lui-meme.md",
-      "startLine": 46,
-      "startChar": 636,
-      "endLine": 46,
-      "endChar": 637,
+      "startLine": 60,
+      "startChar": 560,
+      "endLine": 60,
+      "endChar": 561,
       "selectedText": "—",
       "selectedTextHash": "bda050585a00f0f6cb502350559d75532ae3b244c9498b996e7c5df2d98dfc8d",
       "comment": "tirets, a enlever",
       "timestamp": 1778503041874,
-      "isOrphaned": false
+      "isOrphaned": false,
+      "resolved": true,
+      "resolvedAt": 1747065600000
     },
     {
       "id": "c35095aa-ca2e-4aa9-acbb-b15622f1300d",
       "filePath": "04-chapitres/03-partie-I-outil-contre-lui-meme.md",
-      "startLine": 48,
+      "startLine": 58,
       "startChar": 730,
-      "endLine": 48,
+      "endLine": 58,
       "endChar": 844,
       "selectedText": "ainsi que les analyses sur les usages des sens et le fait de laisser le sens visuel pour l'observation des oeuvres",
       "selectedTextHash": "0a094b0ab5f2d78f58d286af6d0ecba99babf16ff66268312fa2b8f972d05055",
       "comment": "a écrire proprement",
       "timestamp": 1778503160772,
-      "isOrphaned": false
+      "isOrphaned": true,
+      "resolved": true,
+      "resolvedAt": 1747065600000
     },
     {
       "id": "08bbda8a-2e44-40bd-98c9-9d5d4dba2e76",
       "filePath": "04-chapitres/03-partie-I-outil-contre-lui-meme.md",
-      "startLine": 50,
+      "startLine": 60,
       "startChar": 560,
-      "endLine": 50,
+      "endLine": 60,
       "endChar": 561,
       "selectedText": "—",
       "selectedTextHash": "bda050585a00f0f6cb502350559d75532ae3b244c9498b996e7c5df2d98dfc8d",
       "comment": "tirets\n",
       "timestamp": 1778503192973,
-      "isOrphaned": false
+      "isOrphaned": false,
+      "resolved": true,
+      "resolvedAt": 1747065600000
     },
     {
       "id": "041ebfd4-017c-4d03-88dc-b2f7d2575cc5",
       "filePath": "04-chapitres/03-partie-I-outil-contre-lui-meme.md",
-      "startLine": 56,
+      "startLine": 66,
       "startChar": 0,
-      "endLine": 56,
+      "endLine": 66,
       "endChar": 275,
       "selectedText": "Pour évaluer dans quelle mesure les difficultés identifiées par les visiteurs relèvent de problèmes de conception, j'ai constitué un corpus de cinq audioguides, représentatif de la diversité des dispositifs actuellement déployés dans les musées français. Ce corpus comprend :",
       "selectedTextHash": "1dc0cbde5864d00b5fb8df5c43b05348682db1f4fc9a1a8ab3b6b8d58333d4a0",
@@ -451,54 +493,62 @@
     {
       "id": "f751bf9a-9079-498f-ac8c-4ca6d60c560a",
       "filePath": "04-chapitres/03-partie-I-outil-contre-lui-meme.md",
-      "startLine": 104,
+      "startLine": 116,
       "startChar": 0,
-      "endLine": 104,
+      "endLine": 116,
       "endChar": 267,
       "selectedText": "Ce paradoxe de la non-linéarité rejoint les observations de Marques et Costello (2017) sur le rythme de visite : les visiteurs veulent pouvoir accélérer, ralentir, passer une œuvre, y revenir plus tard, mais ils veulent aussi être guidés pour ne pas se sentir perdus.",
       "selectedTextHash": "80474b48d6f79f9bcb0e840f7dcf44bebb3ad276640627badebd2e73c7d5abe6",
       "comment": "ca fait trop IA, rephraser",
       "timestamp": 1778503720760,
-      "isOrphaned": false
+      "isOrphaned": true,
+      "resolved": true,
+      "resolvedAt": 1747065600000
     },
     {
       "id": "57098f89-3627-4fc5-b743-1f09bcb50ed2",
       "filePath": "04-chapitres/03-partie-I-outil-contre-lui-meme.md",
-      "startLine": 108,
-      "startChar": 46,
-      "endLine": 108,
-      "endChar": 47,
+      "startLine": 132,
+      "startChar": 251,
+      "endLine": 132,
+      "endChar": 252,
       "selectedText": "—",
       "selectedTextHash": "bda050585a00f0f6cb502350559d75532ae3b244c9498b996e7c5df2d98dfc8d",
       "comment": "tirets",
       "timestamp": 1778503889190,
-      "isOrphaned": false
+      "isOrphaned": false,
+      "resolved": true,
+      "resolvedAt": 1747065600000
     },
     {
       "id": "86f2da90-0613-4eeb-aa1e-dbb8b25c585b",
       "filePath": "04-chapitres/03-partie-I-outil-contre-lui-meme.md",
-      "startLine": 108,
+      "startLine": 120,
       "startChar": 114,
-      "endLine": 108,
+      "endLine": 120,
       "endChar": 241,
       "selectedText": "est rarement documenté dans les analyses du corpus**, mais les rares mentions suggèrent qu'il est source de frictions majeures.",
       "selectedTextHash": "ff11350952b4fee6bdbf51dd54f02ef9d6a7870989c5af0f0c7805733b9b0d82",
       "comment": "c'est moi qui l'ai fait donc soit moins critique, on peut juste dire que ce n'était pas un sujet dans le cadrage initial et que je n'ai pas pu le faire rigoureusement",
       "timestamp": 1778503925874,
-      "isOrphaned": false
+      "isOrphaned": true,
+      "resolved": true,
+      "resolvedAt": 1747065600000
     },
     {
       "id": "90b40e14-ada1-4245-b092-f23710b62ff0",
       "filePath": "04-chapitres/03-partie-I-outil-contre-lui-meme.md",
-      "startLine": 124,
+      "startLine": 136,
       "startChar": 0,
-      "endLine": 124,
+      "endLine": 136,
       "endChar": 144,
       "selectedText": "Ces observations suggèrent que les problèmes de conception ne sont pas les seuls en cause. Il faut également interroger le **contexte d'usage** ",
       "selectedTextHash": "bc8161d919a78aa8ff8176468a671a0285fa26fe1c9cac40fb74d140f407c376",
       "comment": "et aussi insisiter sur le fait qu'il y a surement un plafon de verre autour des 20% qui s'explique par le fais qu'une grande majorité des gens ont un usage de leur visite de musée qui n'implique pas une volonté de médiation importante mais plus de déambulation et d'échange sociaux (amis, famille) \n\n\na verifier avec les chiffres et reformuler en fonction",
       "timestamp": 1778504193662,
-      "isOrphaned": false
+      "isOrphaned": false,
+      "resolved": true,
+      "resolvedAt": 1747152000000
     },
     {
       "id": "c2341e61-0ccd-4231-bb58-f143ccf14dbc",
@@ -511,7 +561,7 @@
       "selectedTextHash": "9a392f1061cc3cae06f516b6398a2a00e5e1ff2f6351bcc7bf3324a172651c83",
       "comment": "on est sur que ca ne parle pas des deux autres ? pourquoi ?",
       "timestamp": 1778504727049,
-      "isOrphaned": false
+      "isOrphaned": true
     }
   ]
 }

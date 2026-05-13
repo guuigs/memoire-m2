@@ -222,3 +222,73 @@ Ce fichier consigne les contributions substantielles de l'agent IA (Claude, Anth
 **Voix** : rédaction en "je", ton direct, formulations incarnées.
 **Signalement éditorial** : la vulgarisation est intégrée comme levier de conception (HC2 incarnation), pas comme axe central — conformément à la clarification d'Ekko.
 
+---
+
+## Session 11 — 2026-05-12
+
+### Analyse des 4 nouveaux entretiens visiteurs (R3-R6)
+**Type** : analyse qualitative de matériau empirique
+**Contenu** : lecture des 4 transcriptions d'entretiens visiteurs déposées par Ekko (R3 : F/32 ans chargée de mission ; R4 : H/68 ans retraité menuisier ; R5 : F/45 ans prof d'histoire-géo ; R6 : H/38 ans chef de projet digital). Production d'un fichier d'analyse synthétique croisée comprenant : profils, 5 objectifs d'analyse (O1-O5) avec verbatims sourcés, grille synthétique, évolutions majeures pour le mémoire, questions soulevées.
+**Fichier produit** : `02-materiau-empirique/entretiens/Analyse entretiens visiteurs 3-6 — Synthèse.md`
+**Constats majeurs** :
+- Rejet massif de l'audioguide audio (plus frontal qu'attendu) — R3 : « c'est comme les cartels en version longue », R4 : « j'en ai marre qu'on me parle »
+- Concept d'onboarding visiteur (R6) comme besoin structurel nommé
+- L'après-visite comme moment négligé (R3)
+- Wikipedia comme substitut de médiation (R6)
+- Définition convergente de la bonne médiation : « donner envie sans faire la leçon »
+
+### Intégration des verbatims des entretiens 3-6 dans Partie I
+**Type** : enrichissement du texte existant
+**Contenu** : ajout de 4 passages dans la Partie I intégrant les nouveaux verbatims :
+1. Mise à jour de la présentation du dispositif empirique (2 entretiens → 6 entretiens, panel diversifié décrit)
+2. Ajout du verbatim R3 sur le « ton lu » et l'audioguide « en version longue » (section I.1, conditions d'acceptation)
+3. Ajout du verbatim R6 sur Wikipedia comme substitut de médiation (section I.2, problème de ton)
+4. Ajout du verbatim R6 sur l'onboarding conceptuel (section I.1, abandons)
+5. Ajout du verbatim R3 sur l'après-visite (section I.1, abandons/engagement hors site)
+**Fichier modifié** : `04-chapitres/03-partie-I-outil-contre-lui-meme.md`
+
+### Modification des hypothèses de conception (Partie III)
+**Type** : modification de section du mémoire
+**Contenu** :
+1. **Nuance de HC1** : passage de « audio-first » à « Minimiser l'écran, mais ne pas imposer l'audio » — deux pistes (audio-first comme conviction personnelle vs visuel court + audio optionnel), avec verbatims R3 et R4
+2. **Ajout de HC5** : « Proposer un onboarding conceptuel » — cadrage initial pour visiteur novice, 2-3 min introduction, verbatim R6
+3. **Ajout de HC6** : « Penser l'après-visite » — fonction trace, sauvegarde œuvres consultées, approfondissement post-visite, verbatim R3 + référence Marques & Costello 2017
+**Fichier modifié** : `04-chapitres/05-partie-III-sortie-par-le-design.md`
+
+### Mise à jour du journal de réflexion
+**Type** : documentation de la trajectoire de recherche
+**Contenu** : entrée datée 2026-05-12 documentant les évolutions intellectuelles apportées par les 4 nouveaux entretiens, avec articulation aux hypothèses du mémoire.
+**Fichier modifié** : `00-journal-reflexion.md`
+
+### Mise à jour des fichiers de suivi
+**Type** : organisation
+**Fichiers mis à jour** : `00-etat-projet.md` (panel 6 entretiens, III.1 avec 6 hypothèses HC1-HC6), `07-meta/contributions-ia.md` (cette section)
+
+---
+
+## Session 12 — 2026-05-13
+
+### Traitement des commentaires Side Note (commande /check-comment)
+**Type** : révision éditoriale collaborative
+**Contenu** : traitement de 11 commentaires d'Ekko sur les fichiers `02-prob-hyp-methode.md` et `03-partie-I-outil-contre-lui-meme.md`.
+
+**Modifications effectuées** :
+1. Suppression passage "Ben Nasr précise ce tableau" (clarification)
+2. Réécriture passage sur la littérature : nuance sur travaux critiques + ajout biais études privées/commanditées
+3. Ajout donnée 2021 : 530 apps muséales (source Club Innovation & Culture)
+4. Raccourcissement passage H1-H5 (plus concis)
+5. Note pour intro : justifier le plan "négatif" comme posture diagnostique
+6. Renforcement perception positive du téléphone (podcasts, vidéos, habitudes)
+7. Déplacement verbatim batterie/écouteurs vers section contraintes techniques
+8. Réécriture paragraphe temps de visite (14 min) — plus clair
+9. Ajout mention annexe pour tableau corpus audioguides
+10. **Intégration concept "plafond de verre structurel"** : recherche bibliographique (GECE 2024, CREDOC 2012), ajout paragraphe sur les motivations de visite (42% déconnexion, 74% visite en couple, sociabilité vs médiation), explication de pourquoi même les meilleurs audioguides plafonnent
+
+**Fichiers modifiés** :
+- `04-chapitres/02-prob-hyp-methode.md`
+- `04-chapitres/03-partie-I-outil-contre-lui-meme.md`
+- `07-meta/questions-en-attente.md` (ajout note intro plan négatif)
+
+**Sources ajoutées** : GECE 2024 (baromètre motivations), CREDOC 2012 (sociabilité visite musée)
+**Voix** : toutes reformulations validées par Ekko avant application
+

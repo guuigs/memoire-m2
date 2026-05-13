@@ -167,6 +167,35 @@ Doutes initiaux :
 
 ---
 
+## 2026-05-12 — Session 11 : 4 nouveaux entretiens visiteurs, évolutions majeures
+
+**Où j'en suis** : 4 nouveaux entretiens visiteurs déposés (R3-R6). Diversification significative du panel : un visiteur très rare avec sentiment d'illégitimité (R6, 38 ans, chef de projet digital), un visiteur occasionnel avec intérêt technique (R4, 68 ans, retraité menuisier), une visiteuse régulière contemplative (R3, 32 ans), une visiteuse experte avec double regard perso/pro (R5, 45 ans, prof d'histoire-géo).
+
+**Ce qui fait bouger la réflexion** :
+
+1. **Rejet massif de l'audioguide** — plus frontal que dans les entretiens 1-2. Le problème n'est pas seulement le format linéaire mais la **forme même du médium** : « tu sens que c'est lu, que c'est pas naturel » (R3), « c'est comme les cartels en version longue » (R3), « j'en ai marre qu'on me parle » (R4), « audio seul j'ai du mal » (R6). La préférence pour le **visuel sur l'audio** est nette.
+
+2. **L'hypothèse de l'onboarding** — R6 nomme précisément un besoin structurel : le musée manque d'un « onboarding visiteur ». « T'arrives, t'es lâché, démerde-toi. Alors qu'un onboarding visiteur ça serait pas con. » Cette formulation UX est précieuse car elle traduit ce que d'autres expriment confusément (« pourquoi je devrais m'intéresser à ce truc », « des clés en arrivant »).
+
+3. **L'après-visite comme moment négligé** — R3 : « peut-être quelque chose après la visite [...] quand je rentre, des fois j'ai envie de me souvenir de ce que j'ai vu, et là j'ai plus rien ». Les apps actuelles sont pensées pour la visite en cours, pas pour la prolongation mémorielle.
+
+4. **Le guide humain comme modèle qualitatif** — Les 4 répondants citent positivement des guides humains (Chenonceau, Cluny, Pompéi). Ce qui est valorisé : passion, adaptation, narration, humour, digressions. Le problème de l'audioguide n'est pas l'audio mais l'**absence de ces qualités**.
+
+5. **Définition convergente de la bonne médiation** : « donner envie sans faire la leçon » (R3), « faire comprendre, pas montrer qu'on sait » (R4), « prendre le visiteur au sérieux » (R5), « comprendre que je sais rien sans me faire sentir nul » (R6). Rejet unanime de l'infantilisation.
+
+6. **Wikipedia comme substitut** — R6 fait spontanément le travail de médiation via son téléphone face à l'insuffisance des cartels. « C'est triste à dire mais Wikipédia c'est souvent mieux qu'un cartel pour moi. »
+
+**Impact sur les hypothèses du mémoire** :
+- L'hypothèse anti-app mobile se renforce mais se précise : ce n'est pas l'app qui pose problème, c'est le **format audioguide linéaire audio-only** hérité de l'audioguide physique.
+- L'hypothèse organisationnelle (chaîne de production) trouve un écho dans la critique du « ton lu, pas naturel » — signe d'une production trop contrôlée.
+- Piste design forte : l'onboarding + le visuel court + l'outil post-visite.
+
+**Questions ouvertes** :
+- Comment le prototype peut-il tester ces pistes ? Format onboarding visuel court + trace post-visite ?
+- Le verbatim de R6 sur l'onboarding doit-il être mobilisé dans la Partie III comme point d'appui conceptuel ?
+
+---
+
 ## 2026-05-04 (fin de session) — Rédaction Parties I et II, réflexion sur la vulgarisation
 
 **Où j'en suis** : J'ai rédigé les Parties I et II du mémoire (~43 pages). Partie I documente ce que vivent les visiteurs et ce que révèle le corpus. Partie II documente les contraintes institutionnelles (économiques, organisationnelles, dépossession).

@@ -1,6 +1,6 @@
 # État du projet — Mémoire M2
 
-*Mis à jour : 2026-05-06 (session 9 — fin)*
+*Mis à jour : 2026-05-12 (session 11)*
 
 ---
 
@@ -15,7 +15,7 @@
 | Problématique, hypothèses, méthode | ✅ Rédigée — `04-chapitres/02-prob-hyp-methode.md` |
 | Partie I — L'outil contre lui-même | ✅ **RÉDIGÉE** (~18 pages) — `04-chapitres/03-partie-I-outil-contre-lui-meme.md` |
 | Partie II — L'institution contre l'outil | ✅ **RÉDIGÉE** (~25 pages) — `04-chapitres/04-partie-II-institution-contre-outil.md` |
-| Partie III — Y a-t-il une sortie par le design ? | 🟡 III.1 rédigé (~6 pages) — III.2/III.3/III.4 en attente du prototype |
+| Partie III — Y a-t-il une sortie par le design ? | 🟡 III.1 rédigé (~6 pages, 6 hypothèses HC1-HC6) — III.2/III.3/III.4 en attente du prototype |
 | Conclusion | 🔜 À rédiger en dernier |
 | Bibliographie | ✅ 31 fiches produites — 3 sources jury récupérées (Bensaude-Vincent, Schmitt & Meyer-Chemenska, Davallon & Le Marec), 4 en attente |
 
@@ -27,10 +27,16 @@
 |---|---|
 | Entretien visiteur 1 (Musée Roger Quillot, F/21 ans) | ✅ Transcription + analyse |
 | Entretien visiteur 2 (Cité de l'Architecture, H/24 ans) | ✅ Transcription + analyse |
+| Entretien visiteur 3 (Cité de l'Architecture, F/32 ans) | ✅ Transcription + analyse |
+| Entretien visiteur 4 (Cité de l'Architecture, H/68 ans) | ✅ Transcription + analyse |
+| Entretien visiteur 5 (Cité de l'Architecture, F/45 ans) | ✅ Transcription + analyse |
+| Entretien visiteur 6 (Cité de l'Architecture, H/38 ans) | ✅ Transcription + analyse |
 | Entretien musée 1 (Cité de l'Architecture — avec audioguide) | ✅ JSON transcrit + analyse produite |
 | Entretien musée 2 (Musée de la Faïence de Nevers) | ✅ Résumé reçu + analyse produite (transcription perdue) |
 | Questionnaire (70 répondants) | ✅ CSV + analyse préliminaire disponibles |
 | Corpus audioguides (5 apps) | ⏳ Corpus arrêté à 5 apps — grille de critères posée. Musée des arts décoratifs : audioguide classique format téléphone à touche. |
+
+**Panel visiteurs consolidé** : 6 entretiens couvrant une diversité de profils (21-68 ans, très rare à très assidu, contemplatives/techniques/experts).
 
 ---
 
@@ -60,8 +66,9 @@
 12. Ajouter marqueurs [SCHÉMA PROPOSÉ] où visualisations aideraient
 13. Appliquer suggestions 2 et 3 de la réflexion critique
 14. ✅ Rédiger III.1 (ce que le design peut/ne peut pas) — FAIT session 9
-15. Définir le périmètre du prototype (bloquant pour III.2/III.3)
-16. Rédiger III.2 (prototype), III.3 (tests), III.4 (discussion)
+15. ✅ **Intégration entretiens 3-6** — verbatims intégrés en Partie I, HC5/HC6 ajoutés en Partie III (session 11)
+16. Définir le périmètre du prototype (bloquant pour III.2/III.3) — **6 hypothèses à tester : HC1-HC6**
+17. Rédiger III.2 (prototype), III.3 (tests), III.4 (discussion)
 
 ---
 

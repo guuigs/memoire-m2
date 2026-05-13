@@ -20,6 +20,8 @@ Ce fichier centralise les questions non résolues qui nécessitent une décision
 
 ## Rédaction
 
+- [ ] **Intro : justifier le plan "négatif"** : Le mémoire assume une posture diagnostique. On part du constat que l'outil ne fonctionne pas (les chiffres le montrent), et on cherche pourquoi. Pas besoin de redémontrer le positif (la littérature l'a fait), il est posé en intro. Le mémoire devient une enquête sur l'échec, pas un plaidoyer pro/contre. À formuler explicitement dans l'introduction.
+
 - [x] **Modification M1 (retours soutenance)** : ✅ Fait session 7 (2026-05-05). Vulgarisation intégrée, diorama corrigé, cycles numériques ajoutés, conclusion réécrite.
 
 - [ ] **Prototype et tests utilisateurs** : Bloquant pour III.2/III.3/III.4. Ekko doit définir le périmètre du prototype, le réaliser, et conduire les tests (3-5 utilisateurs). 4 hypothèses de conception à tester : HC1 audio-first, HC2 incarnation, HC3 interruption, HC4 modestie.
